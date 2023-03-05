@@ -1,0 +1,2249 @@
+year,state,type,length,tuition,room_board,total_cost
+2013,Alabama,Private,4-year,13983.0,8503.0,22486
+2013,Alabama,Public In-State,2-year,4048.0,0.0,4048
+2013,Alabama,Public In-State,4-year,8073.0,8473.0,16546
+2013,Alabama,Public Out-of-State,2-year,7736.0,0.0,7736
+2013,Alabama,Public Out-of-State,4-year,20380.0,8473.0,28853
+2013,Alaska,Private,4-year,21496.0,8923.0,30419
+2013,Alaska,Public In-State,2-year,3972.0,0.0,3972
+2013,Alaska,Public In-State,4-year,6317.0,9098.0,15415
+2013,Alaska,Public Out-of-State,2-year,4150.0,0.0,4150
+2013,Alaska,Public Out-of-State,4-year,18790.0,9098.0,27888
+2013,Arizona,Private,4-year,11650.0,8744.0,20394
+2013,Arizona,Public In-State,2-year,1842.0,0.0,1842
+2013,Arizona,Public In-State,4-year,9694.0,9370.0,19064
+2013,Arizona,Public Out-of-State,2-year,7870.0,0.0,7870
+2013,Arizona,Public Out-of-State,4-year,21201.0,9370.0,30571
+2013,Arkansas,Private,4-year,18004.0,7263.0,25267
+2013,Arkansas,Public In-State,2-year,2633.0,0.0,2633
+2013,Arkansas,Public In-State,4-year,6604.0,7331.0,13935
+2013,Arkansas,Public Out-of-State,2-year,4605.0,0.0,4605
+2013,Arkansas,Public Out-of-State,4-year,15669.0,7331.0,23000
+2013,California,Private,4-year,28345.0,12254.0,40599
+2013,California,Public In-State,2-year,1225.0,0.0,1225
+2013,California,Public In-State,4-year,8892.0,12137.0,21029
+2013,California,Public Out-of-State,2-year,6267.0,0.0,6267
+2013,California,Public Out-of-State,4-year,30765.0,12137.0,42902
+2013,Colorado,Private,4-year,19967.0,10939.0,30906
+2013,Colorado,Public In-State,2-year,3004.0,0.0,3004
+2013,Colorado,Public In-State,4-year,7656.0,10396.0,18052
+2013,Colorado,Public Out-of-State,2-year,8882.0,0.0,8882
+2013,Colorado,Public Out-of-State,4-year,25470.0,10396.0,35866
+2013,Connecticut,Private,4-year,35336.0,12926.0,48262
+2013,Connecticut,Public In-State,2-year,3596.0,0.0,3596
+2013,Connecticut,Public In-State,4-year,9517.0,11138.0,20655
+2013,Connecticut,Public Out-of-State,2-year,10512.0,0.0,10512
+2013,Connecticut,Public Out-of-State,4-year,26688.0,11138.0,37826
+2013,Delaware,Private,4-year,12943.0,10758.0,23701
+2013,Delaware,Public In-State,2-year,3242.0,0.0,3242
+2013,Delaware,Public In-State,4-year,10929.0,11011.0,21940
+2013,Delaware,Public Out-of-State,2-year,7562.0,0.0,7562
+2013,Delaware,Public Out-of-State,4-year,26228.0,11011.0,37239
+2013,District of Columbia,Private,4-year,35524.0,12916.0,48440
+2013,District of Columbia,Public In-State,4-year,7244.0,0.0,7244
+2013,District of Columbia,Public Out-of-State,4-year,14540.0,0.0,14540
+2013,Florida,Private,4-year,20155.0,9968.0,30123
+2013,Florida,Public In-State,2-year,2486.0,0.0,2486
+2013,Florida,Public In-State,4-year,4377.0,9793.0,14170
+2013,Florida,Public Out-of-State,2-year,6889.0,0.0,6889
+2013,Florida,Public Out-of-State,4-year,17050.0,9793.0,26843
+2013,Georgia,Private,4-year,22456.0,10721.0,33177
+2013,Georgia,Public In-State,2-year,2652.0,0.0,2652
+2013,Georgia,Public In-State,4-year,6325.0,9005.0,15330
+2013,Georgia,Public Out-of-State,2-year,7554.0,0.0,7554
+2013,Georgia,Public Out-of-State,4-year,22393.0,9005.0,31398
+2013,Hawaii,Private,4-year,14287.0,11522.0,25809
+2013,Hawaii,Public In-State,2-year,2484.0,0.0,2484
+2013,Hawaii,Public In-State,4-year,7731.0,9256.0,16987
+2013,Hawaii,Public Out-of-State,2-year,7166.0,0.0,7166
+2013,Hawaii,Public Out-of-State,4-year,23614.0,9256.0,32870
+2013,Idaho,Private,4-year,6752.0,4792.0,11544
+2013,Idaho,Public In-State,2-year,2915.0,0.0,2915
+2013,Idaho,Public In-State,4-year,5980.0,7496.0,13476
+2013,Idaho,Public Out-of-State,2-year,7276.0,0.0,7276
+2013,Idaho,Public Out-of-State,4-year,17736.0,7496.0,25232
+2013,Illinois,Private,4-year,26299.0,10798.0,37097
+2013,Illinois,Public In-State,2-year,3192.0,0.0,3192
+2013,Illinois,Public In-State,4-year,11882.0,10340.0,22222
+2013,Illinois,Public Out-of-State,2-year,9034.0,0.0,9034
+2013,Illinois,Public Out-of-State,4-year,26873.0,10340.0,37213
+2013,Indiana,Private,4-year,26794.0,9574.0,36368
+2013,Indiana,Public In-State,2-year,3455.0,0.0,3455
+2013,Indiana,Public In-State,4-year,8269.0,9489.0,17758
+2013,Indiana,Public Out-of-State,2-year,7302.0,0.0,7302
+2013,Indiana,Public Out-of-State,4-year,26538.0,9489.0,36027
+2013,Iowa,Private,4-year,15426.0,6832.0,22258
+2013,Iowa,Public In-State,2-year,4099.0,0.0,4099
+2013,Iowa,Public In-State,4-year,7832.0,8525.0,16357
+2013,Iowa,Public Out-of-State,2-year,5190.0,0.0,5190
+2013,Iowa,Public Out-of-State,4-year,23019.0,8525.0,31544
+2013,Kansas,Private,4-year,20852.0,7673.0,28525
+2013,Kansas,Public In-State,2-year,2621.0,0.0,2621
+2013,Kansas,Public In-State,4-year,6970.0,6931.0,13901
+2013,Kansas,Public Out-of-State,2-year,4023.0,0.0,4023
+2013,Kansas,Public Out-of-State,4-year,17646.0,6931.0,24577
+2013,Kentucky,Private,4-year,20639.0,8015.0,28654
+2013,Kentucky,Public In-State,2-year,3391.0,0.0,3391
+2013,Kentucky,Public In-State,4-year,8416.0,8164.0,16580
+2013,Kentucky,Public Out-of-State,2-year,11789.0,0.0,11789
+2013,Kentucky,Public Out-of-State,4-year,19040.0,8164.0,27204
+2013,Louisiana,Private,4-year,28691.0,10397.0,39088
+2013,Louisiana,Public In-State,2-year,2837.0,0.0,2837
+2013,Louisiana,Public In-State,4-year,5817.0,8428.0,14245
+2013,Louisiana,Public Out-of-State,2-year,5781.0,0.0,5781
+2013,Louisiana,Public Out-of-State,4-year,17405.0,8428.0,25833
+2013,Maine,Private,4-year,31558.0,11187.0,42745
+2013,Maine,Public In-State,2-year,3409.0,0.0,3409
+2013,Maine,Public In-State,4-year,9295.0,9381.0,18676
+2013,Maine,Public Out-of-State,2-year,6053.0,0.0,6053
+2013,Maine,Public Out-of-State,4-year,24397.0,9381.0,33778
+2013,Maryland,Private,4-year,32580.0,12238.0,44818
+2013,Maryland,Public In-State,2-year,3500.0,0.0,3500
+2013,Maryland,Public In-State,4-year,8051.0,10043.0,18094
+2013,Maryland,Public Out-of-State,2-year,8355.0,0.0,8355
+2013,Maryland,Public Out-of-State,4-year,20199.0,10043.0,30242
+2013,Massachusetts,Private,4-year,36795.0,13076.0,49871
+2013,Massachusetts,Public In-State,2-year,4186.0,0.0,4186
+2013,Massachusetts,Public In-State,4-year,10632.0,10462.0,21094
+2013,Massachusetts,Public Out-of-State,2-year,9516.0,0.0,9516
+2013,Massachusetts,Public Out-of-State,4-year,24399.0,10462.0,34861
+2013,Michigan,Private,4-year,18135.0,8246.0,26381
+2013,Michigan,Public In-State,2-year,2736.0,0.0,2736
+2013,Michigan,Public In-State,4-year,11027.0,8838.0,19865
+2013,Michigan,Public Out-of-State,2-year,5651.0,0.0,5651
+2013,Michigan,Public Out-of-State,4-year,31047.0,8838.0,39885
+2013,Minnesota,Private,4-year,26499.0,8910.0,35409
+2013,Minnesota,Public In-State,2-year,5362.0,0.0,5362
+2013,Minnesota,Public In-State,4-year,10291.0,7708.0,17999
+2013,Minnesota,Public Out-of-State,2-year,6197.0,0.0,6197
+2013,Minnesota,Public Out-of-State,4-year,16313.0,7708.0,24021
+2013,Mississippi,Private,4-year,14592.0,6289.0,20881
+2013,Mississippi,Public In-State,2-year,2276.0,0.0,2276
+2013,Mississippi,Public In-State,4-year,6147.0,7436.0,13583
+2013,Mississippi,Public Out-of-State,2-year,4284.0,0.0,4284
+2013,Mississippi,Public Out-of-State,4-year,15055.0,7436.0,22491
+2013,Missouri,Private,4-year,19020.0,8595.0,27615
+2013,Missouri,Public In-State,2-year,2716.0,0.0,2716
+2013,Missouri,Public In-State,4-year,7815.0,8421.0,16236
+2013,Missouri,Public Out-of-State,2-year,5384.0,0.0,5384
+2013,Missouri,Public Out-of-State,4-year,18885.0,8421.0,27306
+2013,Montana,Private,4-year,19737.0,7584.0,27321
+2013,Montana,Public In-State,2-year,3151.0,0.0,3151
+2013,Montana,Public In-State,4-year,6267.0,7306.0,13573
+2013,Montana,Public Out-of-State,2-year,8351.0,0.0,8351
+2013,Montana,Public Out-of-State,4-year,20164.0,7306.0,27470
+2013,Nebraska,Private,4-year,19478.0,7733.0,27211
+2013,Nebraska,Public In-State,2-year,2594.0,0.0,2594
+2013,Nebraska,Public In-State,4-year,7023.0,8268.0,15291
+2013,Nebraska,Public Out-of-State,2-year,3415.0,0.0,3415
+2013,Nebraska,Public Out-of-State,4-year,16702.0,8268.0,24970
+2013,Nevada,Private,4-year,16108.0,21602.0,37710
+2013,Nevada,Public In-State,2-year,2700.0,0.0,2700
+2013,Nevada,Public In-State,4-year,4953.0,10991.0,15944
+2013,Nevada,Public Out-of-State,2-year,9345.0,0.0,9345
+2013,Nevada,Public Out-of-State,4-year,19156.0,10991.0,30147
+2013,New Hampshire,Private,4-year,30202.0,12107.0,42309
+2013,New Hampshire,Public In-State,2-year,7218.0,0.0,7218
+2013,New Hampshire,Public In-State,4-year,14435.0,10270.0,24705
+2013,New Hampshire,Public Out-of-State,2-year,15697.0,0.0,15697
+2013,New Hampshire,Public Out-of-State,4-year,24945.0,10270.0,35215
+2013,New Jersey,Private,4-year,31195.0,11636.0,42831
+2013,New Jersey,Public In-State,2-year,3782.0,0.0,3782
+2013,New Jersey,Public In-State,4-year,11955.0,11819.0,23774
+2013,New Jersey,Public Out-of-State,2-year,6591.0,0.0,6591
+2013,New Jersey,Public Out-of-State,4-year,24447.0,11819.0,36266
+2013,New Mexico,Private,4-year,16256.0,8889.0,25145
+2013,New Mexico,Public In-State,2-year,1399.0,0.0,1399
+2013,New Mexico,Public In-State,4-year,5483.0,7742.0,13225
+2013,New Mexico,Public Out-of-State,2-year,4558.0,0.0,4558
+2013,New Mexico,Public Out-of-State,4-year,14327.0,7742.0,22069
+2013,New York,Private,4-year,32438.0,12901.0,45339
+2013,New York,Public In-State,2-year,4331.0,0.0,4331
+2013,New York,Public In-State,4-year,6556.0,11841.0,18397
+2013,New York,Public Out-of-State,2-year,7827.0,0.0,7827
+2013,New York,Public Out-of-State,4-year,15751.0,11841.0,27592
+2013,North Carolina,Private,4-year,26336.0,9858.0,36194
+2013,North Carolina,Public In-State,2-year,2212.0,0.0,2212
+2013,North Carolina,Public In-State,4-year,6223.0,8291.0,14514
+2013,North Carolina,Public Out-of-State,2-year,8171.0,0.0,8171
+2013,North Carolina,Public Out-of-State,4-year,19733.0,8291.0,28024
+2013,North Dakota,Private,4-year,12318.0,5424.0,17742
+2013,North Dakota,Public In-State,2-year,4048.0,0.0,4048
+2013,North Dakota,Public In-State,4-year,6572.0,6639.0,13211
+2013,North Dakota,Public Out-of-State,2-year,8216.0,0.0,8216
+2013,North Dakota,Public Out-of-State,4-year,16170.0,6639.0,22809
+2013,Ohio,Private,4-year,25756.0,9612.0,35368
+2013,Ohio,Public In-State,2-year,3480.0,0.0,3480
+2013,Ohio,Public In-State,4-year,9301.0,10152.0,19453
+2013,Ohio,Public Out-of-State,2-year,7421.0,0.0,7421
+2013,Ohio,Public Out-of-State,4-year,21683.0,10152.0,31835
+2013,Oklahoma,Private,4-year,20572.0,8658.0,29230
+2013,Oklahoma,Public In-State,2-year,2904.0,0.0,2904
+2013,Oklahoma,Public In-State,4-year,5882.0,7123.0,13005
+2013,Oklahoma,Public Out-of-State,2-year,7101.0,0.0,7101
+2013,Oklahoma,Public Out-of-State,4-year,16543.0,7123.0,23666
+2013,Oregon,Private,4-year,30195.0,10460.0,40655
+2013,Oregon,Public In-State,2-year,3752.0,0.0,3752
+2013,Oregon,Public In-State,4-year,8294.0,10232.0,18526
+2013,Oregon,Public Out-of-State,2-year,7689.0,0.0,7689
+2013,Oregon,Public Out-of-State,4-year,25067.0,10232.0,35299
+2013,Pennsylvania,Private,4-year,32949.0,11459.0,44408
+2013,Pennsylvania,Public In-State,2-year,4133.0,0.0,4133
+2013,Pennsylvania,Public In-State,4-year,12184.0,9453.0,21637
+2013,Pennsylvania,Public Out-of-State,2-year,11009.0,0.0,11009
+2013,Pennsylvania,Public Out-of-State,4-year,22891.0,9453.0,32344
+2013,Rhode Island,Private,4-year,33940.0,12174.0,46114
+2013,Rhode Island,Public In-State,2-year,3950.0,0.0,3950
+2013,Rhode Island,Public In-State,4-year,10817.0,10765.0,21582
+2013,Rhode Island,Public Out-of-State,2-year,10582.0,0.0,10582
+2013,Rhode Island,Public Out-of-State,4-year,26762.0,10765.0,37527
+2013,South Carolina,Private,4-year,20990.0,8175.0,29165
+2013,South Carolina,Public In-State,2-year,3820.0,0.0,3820
+2013,South Carolina,Public In-State,4-year,10691.0,7964.0,18655
+2013,South Carolina,Public Out-of-State,2-year,7910.0,0.0,7910
+2013,South Carolina,Public Out-of-State,4-year,26042.0,7964.0,34006
+2013,South Dakota,Private,4-year,18843.0,6953.0,25796
+2013,South Dakota,Public In-State,2-year,5066.0,0.0,5066
+2013,South Dakota,Public In-State,4-year,7413.0,6445.0,13858
+2013,South Dakota,Public Out-of-State,2-year,5261.0,0.0,5261
+2013,South Dakota,Public Out-of-State,4-year,9654.0,6445.0,16099
+2013,Tennessee,Private,4-year,22046.0,9090.0,31136
+2013,Tennessee,Public In-State,2-year,3526.0,0.0,3526
+2013,Tennessee,Public In-State,4-year,7472.0,7944.0,15416
+2013,Tennessee,Public Out-of-State,2-year,13682.0,0.0,13682
+2013,Tennessee,Public Out-of-State,4-year,22412.0,7944.0,30356
+2013,Texas,Private,4-year,25174.0,9686.0,34860
+2013,Texas,Public In-State,2-year,1815.0,0.0,1815
+2013,Texas,Public In-State,4-year,7402.0,8538.0,15940
+2013,Texas,Public Out-of-State,2-year,5075.0,0.0,5075
+2013,Texas,Public Out-of-State,4-year,20044.0,8538.0,28582
+2013,Utah,Private,4-year,7758.0,7572.0,15330
+2013,Utah,Public In-State,2-year,3170.0,0.0,3170
+2013,Utah,Public In-State,4-year,5375.0,6701.0,12076
+2013,Utah,Public Out-of-State,2-year,10012.0,0.0,10012
+2013,Utah,Public Out-of-State,4-year,16631.0,6701.0,23332
+2013,Vermont,Private,4-year,35130.0,11125.0,46255
+2013,Vermont,Public In-State,2-year,5452.0,0.0,5452
+2013,Vermont,Public In-State,4-year,13524.0,9766.0,23290
+2013,Vermont,Public Out-of-State,2-year,10804.0,0.0,10804
+2013,Vermont,Public Out-of-State,4-year,32650.0,9766.0,42416
+2013,Virginia,Private,4-year,21524.0,8959.0,30483
+2013,Virginia,Public In-State,2-year,3910.0,0.0,3910
+2013,Virginia,Public In-State,4-year,9866.0,8977.0,18843
+2013,Virginia,Public Out-of-State,2-year,8592.0,0.0,8592
+2013,Virginia,Public Out-of-State,4-year,27079.0,8977.0,36056
+2013,Washington,Private,4-year,30133.0,10161.0,40294
+2013,Washington,Public In-State,2-year,3957.0,0.0,3957
+2013,Washington,Public In-State,4-year,8856.0,10069.0,18925
+2013,Washington,Public Out-of-State,2-year,6983.0,0.0,6983
+2013,Washington,Public Out-of-State,4-year,26314.0,10069.0,36383
+2013,West Virginia,Private,4-year,10721.0,8399.0,19120
+2013,West Virginia,Public In-State,2-year,3135.0,0.0,3135
+2013,West Virginia,Public In-State,4-year,5599.0,8527.0,14126
+2013,West Virginia,Public Out-of-State,2-year,7798.0,0.0,7798
+2013,West Virginia,Public Out-of-State,4-year,16582.0,8527.0,25109
+2013,Wisconsin,Private,4-year,25500.0,8699.0,34199
+2013,Wisconsin,Public In-State,2-year,4073.0,0.0,4073
+2013,Wisconsin,Public In-State,4-year,8339.0,7106.0,15445
+2013,Wisconsin,Public Out-of-State,2-year,6824.0,0.0,6824
+2013,Wisconsin,Public Out-of-State,4-year,20146.0,7106.0,27252
+2013,Wyoming,Private,4-year,13562.0,0.0,13562
+2013,Wyoming,Public In-State,2-year,2420.0,0.0,2420
+2013,Wyoming,Public In-State,4-year,3642.0,8837.0,12479
+2013,Wyoming,Public Out-of-State,2-year,5998.0,0.0,5998
+2013,Wyoming,Public Out-of-State,4-year,10962.0,8837.0,19799
+2014,Alabama,Private,4-year,14201.0,8773.0,22974
+2014,Alabama,Public In-State,2-year,4108.0,0.0,4108
+2014,Alabama,Public In-State,4-year,8503.0,8744.0,17247
+2014,Alabama,Public Out-of-State,2-year,7855.0,0.0,7855
+2014,Alabama,Public Out-of-State,4-year,21389.0,8744.0,30133
+2014,Alaska,Private,4-year,20943.0,9319.0,30262
+2014,Alaska,Public In-State,2-year,4652.0,0.0,4652
+2014,Alaska,Public In-State,4-year,6141.0,9556.0,15697
+2014,Alaska,Public Out-of-State,2-year,4569.0,0.0,4569
+2014,Alaska,Public Out-of-State,4-year,18458.0,9556.0,28014
+2014,Arizona,Private,4-year,11462.0,8734.0,20196
+2014,Arizona,Public In-State,2-year,1949.0,0.0,1949
+2014,Arizona,Public In-State,4-year,9906.0,9877.0,19783
+2014,Arizona,Public Out-of-State,2-year,7994.0,0.0,7994
+2014,Arizona,Public Out-of-State,4-year,22878.0,9877.0,32755
+2014,Arkansas,Private,4-year,19104.0,7371.0,26475
+2014,Arkansas,Public In-State,2-year,2812.0,0.0,2812
+2014,Arkansas,Public In-State,4-year,6894.0,7760.0,14654
+2014,Arkansas,Public Out-of-State,2-year,4905.0,0.0,4905
+2014,Arkansas,Public Out-of-State,4-year,16266.0,7760.0,24026
+2014,California,Private,4-year,29678.0,12213.0,41891
+2014,California,Public In-State,2-year,1233.0,0.0,1233
+2014,California,Public In-State,4-year,8903.0,12380.0,21283
+2014,California,Public Out-of-State,2-year,6593.0,0.0,6593
+2014,California,Public Out-of-State,4-year,30663.0,12380.0,43043
+2014,Colorado,Private,4-year,20359.0,11114.0,31473
+2014,Colorado,Public In-State,2-year,3160.0,0.0,3160
+2014,Colorado,Public In-State,4-year,8228.0,10751.0,18979
+2014,Colorado,Public Out-of-State,2-year,9261.0,0.0,9261
+2014,Colorado,Public Out-of-State,4-year,26233.0,10751.0,36984
+2014,Connecticut,Private,4-year,35407.0,13311.0,48718
+2014,Connecticut,Public In-State,2-year,3824.0,0.0,3824
+2014,Connecticut,Public In-State,4-year,10128.0,11514.0,21642
+2014,Connecticut,Public Out-of-State,2-year,11287.0,0.0,11287
+2014,Connecticut,Public Out-of-State,4-year,28337.0,11514.0,39851
+2014,Delaware,Private,4-year,13444.0,10777.0,24221
+2014,Delaware,Public In-State,2-year,3380.0,0.0,3380
+2014,Delaware,Public In-State,4-year,11278.0,11408.0,22686
+2014,Delaware,Public Out-of-State,2-year,7910.0,0.0,7910
+2014,Delaware,Public Out-of-State,4-year,27162.0,11408.0,38570
+2014,District of Columbia,Private,4-year,36723.0,13171.0,49894
+2014,District of Columbia,Public In-State,4-year,7255.0,0.0,7255
+2014,District of Columbia,Public Out-of-State,4-year,14535.0,0.0,14535
+2014,Florida,Private,4-year,20971.0,10317.0,31288
+2014,Florida,Public In-State,2-year,2513.0,0.0,2513
+2014,Florida,Public In-State,4-year,4423.0,9949.0,14372
+2014,Florida,Public Out-of-State,2-year,9362.0,0.0,9362
+2014,Florida,Public Out-of-State,4-year,17077.0,9949.0,27026
+2014,Georgia,Private,4-year,23521.0,11138.0,34659
+2014,Georgia,Public In-State,2-year,2926.0,0.0,2926
+2014,Georgia,Public In-State,4-year,6614.0,9448.0,16062
+2014,Georgia,Public Out-of-State,2-year,7816.0,0.0,7816
+2014,Georgia,Public Out-of-State,4-year,23730.0,9448.0,33178
+2014,Hawaii,Private,4-year,15073.0,12193.0,27266
+2014,Hawaii,Public In-State,2-year,2608.0,0.0,2608
+2014,Hawaii,Public In-State,4-year,8216.0,9812.0,18028
+2014,Hawaii,Public Out-of-State,2-year,7360.0,0.0,7360
+2014,Hawaii,Public Out-of-State,4-year,25021.0,9812.0,34833
+2014,Idaho,Private,4-year,6736.0,7427.0,14163
+2014,Idaho,Public In-State,2-year,2963.0,0.0,2963
+2014,Idaho,Public In-State,4-year,6315.0,7503.0,13818
+2014,Idaho,Public Out-of-State,2-year,7355.0,0.0,7355
+2014,Idaho,Public Out-of-State,4-year,18875.0,7503.0,26378
+2014,Illinois,Private,4-year,27504.0,11125.0,38629
+2014,Illinois,Public In-State,2-year,3306.0,0.0,3306
+2014,Illinois,Public In-State,4-year,12520.0,10576.0,23096
+2014,Illinois,Public Out-of-State,2-year,9417.0,0.0,9417
+2014,Illinois,Public Out-of-State,4-year,27623.0,10576.0,38199
+2014,Indiana,Private,4-year,28035.0,9929.0,37964
+2014,Indiana,Public In-State,2-year,3605.0,0.0,3605
+2014,Indiana,Public In-State,4-year,8443.0,9809.0,18252
+2014,Indiana,Public Out-of-State,2-year,7632.0,0.0,7632
+2014,Indiana,Public Out-of-State,4-year,27001.0,9809.0,36810
+2014,Iowa,Private,4-year,17492.0,7026.0,24518
+2014,Iowa,Public In-State,2-year,4253.0,0.0,4253
+2014,Iowa,Public In-State,4-year,7839.0,8695.0,16534
+2014,Iowa,Public Out-of-State,2-year,5356.0,0.0,5356
+2014,Iowa,Public Out-of-State,4-year,23568.0,8695.0,32263
+2014,Kansas,Private,4-year,20122.0,7841.0,27963
+2014,Kansas,Public In-State,2-year,2890.0,0.0,2890
+2014,Kansas,Public In-State,4-year,7387.0,7247.0,14634
+2014,Kansas,Public Out-of-State,2-year,4116.0,0.0,4116
+2014,Kansas,Public Out-of-State,4-year,18642.0,7247.0,25889
+2014,Kentucky,Private,4-year,21271.0,8256.0,29527
+2014,Kentucky,Public In-State,2-year,3487.0,0.0,3487
+2014,Kentucky,Public In-State,4-year,8715.0,8566.0,17281
+2014,Kentucky,Public Out-of-State,2-year,12125.0,0.0,12125
+2014,Kentucky,Public Out-of-State,4-year,19979.0,8566.0,28545
+2014,Louisiana,Private,4-year,30257.0,10787.0,41044
+2014,Louisiana,Public In-State,2-year,3178.0,0.0,3178
+2014,Louisiana,Public In-State,4-year,6585.0,8656.0,15241
+2014,Louisiana,Public Out-of-State,2-year,6463.0,0.0,6463
+2014,Louisiana,Public Out-of-State,4-year,19985.0,8656.0,28641
+2014,Maine,Private,4-year,32534.0,11523.0,44057
+2014,Maine,Public In-State,2-year,3545.0,0.0,3545
+2014,Maine,Public In-State,4-year,9368.0,9755.0,19123
+2014,Maine,Public Out-of-State,2-year,6254.0,0.0,6254
+2014,Maine,Public Out-of-State,4-year,24791.0,9755.0,34546
+2014,Maryland,Private,4-year,34316.0,12707.0,47023
+2014,Maryland,Public In-State,2-year,3550.0,0.0,3550
+2014,Maryland,Public In-State,4-year,8320.0,10561.0,18881
+2014,Maryland,Public Out-of-State,2-year,8453.0,0.0,8453
+2014,Maryland,Public Out-of-State,4-year,20772.0,10561.0,31333
+2014,Massachusetts,Private,4-year,38009.0,13475.0,51484
+2014,Massachusetts,Public In-State,2-year,4216.0,0.0,4216
+2014,Massachusetts,Public In-State,4-year,10702.0,11115.0,21817
+2014,Massachusetts,Public Out-of-State,2-year,9561.0,0.0,9561
+2014,Massachusetts,Public Out-of-State,4-year,25461.0,11115.0,36576
+2014,Michigan,Private,4-year,19372.0,8463.0,27835
+2014,Michigan,Public In-State,2-year,2922.0,0.0,2922
+2014,Michigan,Public In-State,4-year,11295.0,9121.0,20416
+2014,Michigan,Public Out-of-State,2-year,6116.0,0.0,6116
+2014,Michigan,Public Out-of-State,4-year,32042.0,9121.0,41163
+2014,Minnesota,Private,4-year,27104.0,9143.0,36247
+2014,Minnesota,Public In-State,2-year,5387.0,0.0,5387
+2014,Minnesota,Public In-State,4-year,10355.0,8034.0,18389
+2014,Minnesota,Public Out-of-State,2-year,6203.0,0.0,6203
+2014,Minnesota,Public Out-of-State,4-year,16915.0,8034.0,24949
+2014,Mississippi,Private,4-year,15042.0,6657.0,21699
+2014,Mississippi,Public In-State,2-year,2409.0,0.0,2409
+2014,Mississippi,Public In-State,4-year,6612.0,7802.0,14414
+2014,Mississippi,Public Out-of-State,2-year,4467.0,0.0,4467
+2014,Mississippi,Public Out-of-State,4-year,15980.0,7802.0,23782
+2014,Missouri,Private,4-year,19523.0,8892.0,28415
+2014,Missouri,Public In-State,2-year,2850.0,0.0,2850
+2014,Missouri,Public In-State,4-year,7998.0,8789.0,16787
+2014,Missouri,Public Out-of-State,2-year,5470.0,0.0,5470
+2014,Missouri,Public Out-of-State,4-year,19319.0,8789.0,28108
+2014,Montana,Private,4-year,20868.0,7865.0,28733
+2014,Montana,Public In-State,2-year,3202.0,0.0,3202
+2014,Montana,Public In-State,4-year,6323.0,7759.0,14082
+2014,Montana,Public Out-of-State,2-year,8417.0,0.0,8417
+2014,Montana,Public Out-of-State,4-year,20797.0,7759.0,28556
+2014,Nebraska,Private,4-year,19832.0,8052.0,27884
+2014,Nebraska,Public In-State,2-year,2670.0,0.0,2670
+2014,Nebraska,Public In-State,4-year,7081.0,8556.0,15637
+2014,Nebraska,Public Out-of-State,2-year,3612.0,0.0,3612
+2014,Nebraska,Public Out-of-State,4-year,16734.0,8556.0,25290
+2014,Nevada,Private,4-year,16169.0,14576.0,30745
+2014,Nevada,Public In-State,2-year,2700.0,0.0,2700
+2014,Nevada,Public In-State,4-year,5029.0,11007.0,16036
+2014,Nevada,Public Out-of-State,2-year,9345.0,0.0,9345
+2014,Nevada,Public Out-of-State,4-year,19616.0,11007.0,30623
+2014,New Hampshire,Private,4-year,31029.0,12461.0,43490
+2014,New Hampshire,Public In-State,2-year,7230.0,0.0,7230
+2014,New Hampshire,Public In-State,4-year,14469.0,10778.0,25247
+2014,New Hampshire,Public Out-of-State,2-year,15717.0,0.0,15717
+2014,New Hampshire,Public Out-of-State,4-year,25357.0,10778.0,36135
+2014,New Jersey,Private,4-year,32010.0,12228.0,44238
+2014,New Jersey,Public In-State,2-year,3929.0,0.0,3929
+2014,New Jersey,Public In-State,4-year,12266.0,11980.0,24246
+2014,New Jersey,Public Out-of-State,2-year,6868.0,0.0,6868
+2014,New Jersey,Public Out-of-State,4-year,25637.0,11980.0,37617
+2014,New Mexico,Private,4-year,17657.0,9811.0,27468
+2014,New Mexico,Public In-State,2-year,1443.0,0.0,1443
+2014,New Mexico,Public In-State,4-year,5973.0,8132.0,14105
+2014,New Mexico,Public Out-of-State,2-year,4642.0,0.0,4642
+2014,New Mexico,Public Out-of-State,4-year,14647.0,8132.0,22779
+2014,New York,Private,4-year,33825.0,13230.0,47055
+2014,New York,Public In-State,2-year,4507.0,0.0,4507
+2014,New York,Public In-State,4-year,6892.0,12865.0,19757
+2014,New York,Public Out-of-State,2-year,8148.0,0.0,8148
+2014,New York,Public Out-of-State,4-year,17082.0,12865.0,29947
+2014,North Carolina,Private,4-year,27284.0,10258.0,37542
+2014,North Carolina,Public In-State,2-year,2304.0,0.0,2304
+2014,North Carolina,Public In-State,4-year,6578.0,8619.0,15197
+2014,North Carolina,Public Out-of-State,2-year,8255.0,0.0,8255
+2014,North Carolina,Public Out-of-State,4-year,20410.0,8619.0,29029
+2014,North Dakota,Private,4-year,12408.0,5715.0,18123
+2014,North Dakota,Public In-State,2-year,3978.0,0.0,3978
+2014,North Dakota,Public In-State,4-year,6824.0,6890.0,13714
+2014,North Dakota,Public Out-of-State,2-year,8157.0,0.0,8157
+2014,North Dakota,Public Out-of-State,4-year,16753.0,6890.0,23643
+2014,Ohio,Private,4-year,26917.0,9939.0,36856
+2014,Ohio,Public In-State,2-year,3544.0,0.0,3544
+2014,Ohio,Public In-State,4-year,9443.0,10557.0,20000
+2014,Ohio,Public Out-of-State,2-year,7313.0,0.0,7313
+2014,Ohio,Public Out-of-State,4-year,21939.0,10557.0,32496
+2014,Oklahoma,Private,4-year,21411.0,8579.0,29990
+2014,Oklahoma,Public In-State,2-year,3062.0,0.0,3062
+2014,Oklahoma,Public In-State,4-year,6043.0,7452.0,13495
+2014,Oklahoma,Public Out-of-State,2-year,7461.0,0.0,7461
+2014,Oklahoma,Public Out-of-State,4-year,17009.0,7452.0,24461
+2014,Oregon,Private,4-year,31599.0,10786.0,42385
+2014,Oregon,Public In-State,2-year,3935.0,0.0,3935
+2014,Oregon,Public In-State,4-year,8616.0,10537.0,19153
+2014,Oregon,Public Out-of-State,2-year,8038.0,0.0,8038
+2014,Oregon,Public Out-of-State,4-year,26144.0,10537.0,36681
+2014,Pennsylvania,Private,4-year,34313.0,11926.0,46239
+2014,Pennsylvania,Public In-State,2-year,4352.0,0.0,4352
+2014,Pennsylvania,Public In-State,4-year,12607.0,10164.0,22771
+2014,Pennsylvania,Public Out-of-State,2-year,11424.0,0.0,11424
+2014,Pennsylvania,Public Out-of-State,4-year,23571.0,10164.0,33735
+2014,Rhode Island,Private,4-year,35036.0,11671.0,46707
+2014,Rhode Island,Public In-State,2-year,3944.0,0.0,3944
+2014,Rhode Island,Public In-State,4-year,10809.0,10952.0,21761
+2014,Rhode Island,Public Out-of-State,2-year,10576.0,0.0,10576
+2014,Rhode Island,Public Out-of-State,4-year,26763.0,10952.0,37715
+2014,South Carolina,Private,4-year,21769.0,8401.0,30170
+2014,South Carolina,Public In-State,2-year,3928.0,0.0,3928
+2014,South Carolina,Public In-State,4-year,11066.0,8438.0,19504
+2014,South Carolina,Public Out-of-State,2-year,8063.0,0.0,8063
+2014,South Carolina,Public Out-of-State,4-year,27040.0,8438.0,35478
+2014,South Dakota,Private,4-year,20114.0,7410.0,27524
+2014,South Dakota,Public In-State,2-year,4800.0,0.0,4800
+2014,South Dakota,Public In-State,4-year,7735.0,6695.0,14430
+2014,South Dakota,Public Out-of-State,2-year,4822.0,0.0,4822
+2014,South Dakota,Public Out-of-State,4-year,10201.0,6695.0,16896
+2014,Tennessee,Private,4-year,22561.0,9148.0,31709
+2014,Tennessee,Public In-State,2-year,3637.0,0.0,3637
+2014,Tennessee,Public In-State,4-year,7958.0,8307.0,16265
+2014,Tennessee,Public Out-of-State,2-year,14092.0,0.0,14092
+2014,Tennessee,Public Out-of-State,4-year,23290.0,8307.0,31597
+2014,Texas,Private,4-year,26382.0,9910.0,36292
+2014,Texas,Public In-State,2-year,1898.0,0.0,1898
+2014,Texas,Public In-State,4-year,7476.0,8735.0,16211
+2014,Texas,Public Out-of-State,2-year,5248.0,0.0,5248
+2014,Texas,Public Out-of-State,4-year,20420.0,8735.0,29155
+2014,Utah,Private,4-year,7765.0,7599.0,15364
+2014,Utah,Public In-State,2-year,3342.0,0.0,3342
+2014,Utah,Public In-State,4-year,5656.0,7147.0,12803
+2014,Utah,Public Out-of-State,2-year,10594.0,0.0,10594
+2014,Utah,Public Out-of-State,4-year,17441.0,7147.0,24588
+2014,Vermont,Private,4-year,36449.0,11460.0,47909
+2014,Vermont,Public In-State,2-year,5668.0,0.0,5668
+2014,Vermont,Public In-State,4-year,13952.0,10121.0,24073
+2014,Vermont,Public Out-of-State,2-year,11236.0,0.0,11236
+2014,Vermont,Public Out-of-State,4-year,33700.0,10121.0,43821
+2014,Virginia,Private,4-year,22280.0,9548.0,31828
+2014,Virginia,Public In-State,2-year,4095.0,0.0,4095
+2014,Virginia,Public In-State,4-year,10531.0,9316.0,19847
+2014,Virginia,Public Out-of-State,2-year,8824.0,0.0,8824
+2014,Virginia,Public Out-of-State,4-year,28578.0,9316.0,37894
+2014,Washington,Private,4-year,31599.0,10266.0,41865
+2014,Washington,Public In-State,2-year,4026.0,0.0,4026
+2014,Washington,Public In-State,4-year,8766.0,10519.0,19285
+2014,Washington,Public Out-of-State,2-year,7108.0,0.0,7108
+2014,Washington,Public Out-of-State,4-year,27714.0,10519.0,38233
+2014,West Virginia,Private,4-year,11050.0,8646.0,19696
+2014,West Virginia,Public In-State,2-year,3403.0,0.0,3403
+2014,West Virginia,Public In-State,4-year,5998.0,8836.0,14834
+2014,West Virginia,Public Out-of-State,2-year,8357.0,0.0,8357
+2014,West Virginia,Public Out-of-State,4-year,17270.0,8836.0,26106
+2014,Wisconsin,Private,4-year,26637.0,9018.0,35655
+2014,Wisconsin,Public In-State,2-year,4233.0,0.0,4233
+2014,Wisconsin,Public In-State,4-year,8406.0,7316.0,15722
+2014,Wisconsin,Public Out-of-State,2-year,6945.0,0.0,6945
+2014,Wisconsin,Public Out-of-State,4-year,20183.0,7316.0,27499
+2014,Wyoming,Private,4-year,16620.0,0.0,16620
+2014,Wyoming,Public In-State,2-year,2579.0,0.0,2579
+2014,Wyoming,Public In-State,4-year,3756.0,9193.0,12949
+2014,Wyoming,Public Out-of-State,2-year,6353.0,0.0,6353
+2014,Wyoming,Public Out-of-State,4-year,11532.0,9193.0,20725
+2015,Alabama,Private,4-year,14759.0,9124.0,23883
+2015,Alabama,Public In-State,2-year,4120.0,0.0,4120
+2015,Alabama,Public In-State,4-year,8871.0,8988.0,17859
+2015,Alabama,Public Out-of-State,2-year,8096.0,0.0,8096
+2015,Alabama,Public Out-of-State,4-year,22499.0,8988.0,31487
+2015,Alaska,Private,4-year,19136.0,6825.0,25961
+2015,Alaska,Public In-State,2-year,3340.0,0.0,3340
+2015,Alaska,Public In-State,4-year,6356.0,10458.0,16814
+2015,Alaska,Public Out-of-State,2-year,3340.0,0.0,3340
+2015,Alaska,Public Out-of-State,4-year,19185.0,10458.0,29643
+2015,Arizona,Private,4-year,12201.0,8727.0,20928
+2015,Arizona,Public In-State,2-year,2025.0,0.0,2025
+2015,Arizona,Public In-State,4-year,9775.0,10064.0,19839
+2015,Arizona,Public Out-of-State,2-year,8086.0,0.0,8086
+2015,Arizona,Public Out-of-State,4-year,23180.0,10064.0,33244
+2015,Arkansas,Private,4-year,19974.0,7512.0,27486
+2015,Arkansas,Public In-State,2-year,2973.0,0.0,2973
+2015,Arkansas,Public In-State,4-year,7261.0,8060.0,15321
+2015,Arkansas,Public Out-of-State,2-year,4781.0,0.0,4781
+2015,Arkansas,Public Out-of-State,4-year,17219.0,8060.0,25279
+2015,California,Private,4-year,27388.0,11081.0,38469
+2015,California,Public In-State,2-year,1244.0,0.0,1244
+2015,California,Public In-State,4-year,9008.0,12740.0,21748
+2015,California,Public Out-of-State,2-year,6731.0,0.0,6731
+2015,California,Public Out-of-State,4-year,30175.0,12740.0,42915
+2015,Colorado,Private,4-year,21603.0,11313.0,32916
+2015,Colorado,Public In-State,2-year,3347.0,0.0,3347
+2015,Colorado,Public In-State,4-year,8722.0,10988.0,19710
+2015,Colorado,Public Out-of-State,2-year,8769.0,0.0,8769
+2015,Colorado,Public Out-of-State,4-year,27059.0,10988.0,38047
+2015,Connecticut,Private,4-year,36304.0,13519.0,49823
+2015,Connecticut,Public In-State,2-year,3869.0,0.0,3869
+2015,Connecticut,Public In-State,4-year,10535.0,11900.0,22435
+2015,Connecticut,Public Out-of-State,2-year,11561.0,0.0,11561
+2015,Connecticut,Public Out-of-State,4-year,31004.0,11900.0,42904
+2015,Delaware,Private,4-year,13720.0,11184.0,24904
+2015,Delaware,Public In-State,2-year,3530.0,0.0,3530
+2015,Delaware,Public In-State,4-year,11492.0,11668.0,23160
+2015,Delaware,Public Out-of-State,2-year,8282.0,0.0,8282
+2015,Delaware,Public Out-of-State,4-year,28279.0,11668.0,39947
+2015,District of Columbia,Private,4-year,37949.0,13907.0,51856
+2015,District of Columbia,Public In-State,4-year,5251.0,0.0,5251
+2015,District of Columbia,Public Out-of-State,4-year,11233.0,0.0,11233
+2015,Florida,Private,4-year,21578.0,10840.0,32418
+2015,Florida,Public In-State,2-year,2383.0,0.0,2383
+2015,Florida,Public In-State,4-year,4456.0,10221.0,14677
+2015,Florida,Public Out-of-State,2-year,8862.0,0.0,8862
+2015,Florida,Public Out-of-State,4-year,17771.0,10221.0,27992
+2015,Georgia,Private,4-year,24493.0,11614.0,36107
+2015,Georgia,Public In-State,2-year,3177.0,0.0,3177
+2015,Georgia,Public In-State,4-year,6753.0,9770.0,16523
+2015,Georgia,Public Out-of-State,2-year,7769.0,0.0,7769
+2015,Georgia,Public Out-of-State,4-year,21739.0,9770.0,31509
+2015,Hawaii,Private,4-year,15233.0,12251.0,27484
+2015,Hawaii,Public In-State,2-year,2800.0,0.0,2800
+2015,Hawaii,Public In-State,4-year,8831.0,10300.0,19131
+2015,Hawaii,Public Out-of-State,2-year,7646.0,0.0,7646
+2015,Hawaii,Public Out-of-State,4-year,26150.0,10300.0,36450
+2015,Idaho,Private,4-year,6456.0,6552.0,13008
+2015,Idaho,Public In-State,2-year,3023.0,0.0,3023
+2015,Idaho,Public In-State,4-year,6834.0,6810.0,13644
+2015,Idaho,Public Out-of-State,2-year,7336.0,0.0,7336
+2015,Idaho,Public Out-of-State,4-year,19633.0,6810.0,26443
+2015,Illinois,Private,4-year,28481.0,11297.0,39778
+2015,Illinois,Public In-State,2-year,3499.0,0.0,3499
+2015,Illinois,Public In-State,4-year,13084.0,10707.0,23791
+2015,Illinois,Public Out-of-State,2-year,9871.0,0.0,9871
+2015,Illinois,Public Out-of-State,4-year,27672.0,10707.0,38379
+2015,Indiana,Private,4-year,29050.0,10079.0,39129
+2015,Indiana,Public In-State,2-year,4055.0,0.0,4055
+2015,Indiana,Public In-State,4-year,8633.0,9760.0,18393
+2015,Indiana,Public Out-of-State,2-year,7932.0,0.0,7932
+2015,Indiana,Public Out-of-State,4-year,28035.0,9760.0,37795
+2015,Iowa,Private,4-year,24076.0,8534.0,32610
+2015,Iowa,Public In-State,2-year,4355.0,0.0,4355
+2015,Iowa,Public In-State,4-year,7858.0,8851.0,16709
+2015,Iowa,Public Out-of-State,2-year,5548.0,0.0,5548
+2015,Iowa,Public Out-of-State,4-year,23778.0,8851.0,32629
+2015,Kansas,Private,4-year,16635.0,8020.0,24655
+2015,Kansas,Public In-State,2-year,3015.0,0.0,3015
+2015,Kansas,Public In-State,4-year,7726.0,7858.0,15584
+2015,Kansas,Public Out-of-State,2-year,4197.0,0.0,4197
+2015,Kansas,Public Out-of-State,4-year,20155.0,7858.0,28013
+2015,Kentucky,Private,4-year,23039.0,8555.0,31594
+2015,Kentucky,Public In-State,2-year,3650.0,0.0,3650
+2015,Kentucky,Public In-State,4-year,9189.0,8341.0,17530
+2015,Kentucky,Public Out-of-State,2-year,12478.0,0.0,12478
+2015,Kentucky,Public Out-of-State,4-year,21409.0,8341.0,29750
+2015,Louisiana,Private,4-year,31175.0,11444.0,42619
+2015,Louisiana,Public In-State,2-year,3502.0,0.0,3502
+2015,Louisiana,Public In-State,4-year,7296.0,8749.0,16045
+2015,Louisiana,Public Out-of-State,2-year,6659.0,0.0,6659
+2015,Louisiana,Public Out-of-State,4-year,21409.0,8749.0,30158
+2015,Maine,Private,4-year,33205.0,11786.0,44991
+2015,Maine,Public In-State,2-year,3663.0,0.0,3663
+2015,Maine,Public In-State,4-year,9166.0,9748.0,18914
+2015,Maine,Public Out-of-State,2-year,6455.0,0.0,6455
+2015,Maine,Public Out-of-State,4-year,25273.0,9748.0,35021
+2015,Maryland,Private,4-year,36402.0,13246.0,49648
+2015,Maryland,Public In-State,2-year,3668.0,0.0,3668
+2015,Maryland,Public In-State,4-year,8482.0,10892.0,19374
+2015,Maryland,Public Out-of-State,2-year,8841.0,0.0,8841
+2015,Maryland,Public Out-of-State,4-year,21031.0,10892.0,31923
+2015,Massachusetts,Private,4-year,39298.0,13873.0,53171
+2015,Massachusetts,Public In-State,2-year,4333.0,0.0,4333
+2015,Massachusetts,Public In-State,4-year,10900.0,11314.0,22214
+2015,Massachusetts,Public Out-of-State,2-year,9742.0,0.0,9742
+2015,Massachusetts,Public Out-of-State,4-year,26213.0,11314.0,37527
+2015,Michigan,Private,4-year,20718.0,8705.0,29423
+2015,Michigan,Public In-State,2-year,3062.0,0.0,3062
+2015,Michigan,Public In-State,4-year,11507.0,9336.0,20843
+2015,Michigan,Public Out-of-State,2-year,6323.0,0.0,6323
+2015,Michigan,Public Out-of-State,4-year,33666.0,9336.0,43002
+2015,Minnesota,Private,4-year,28123.0,9561.0,37684
+2015,Minnesota,Public In-State,2-year,5327.0,0.0,5327
+2015,Minnesota,Public In-State,4-year,10400.0,8327.0,18727
+2015,Minnesota,Public Out-of-State,2-year,5960.0,0.0,5960
+2015,Minnesota,Public Out-of-State,4-year,17376.0,8327.0,25703
+2015,Mississippi,Private,4-year,15643.0,7201.0,22844
+2015,Mississippi,Public In-State,2-year,2518.0,0.0,2518
+2015,Mississippi,Public In-State,4-year,6880.0,8830.0,15710
+2015,Mississippi,Public Out-of-State,2-year,4676.0,0.0,4676
+2015,Mississippi,Public Out-of-State,4-year,17262.0,8830.0,26092
+2015,Missouri,Private,4-year,21465.0,8938.0,30403
+2015,Missouri,Public In-State,2-year,2890.0,0.0,2890
+2015,Missouri,Public In-State,4-year,8065.0,9079.0,17144
+2015,Missouri,Public Out-of-State,2-year,5514.0,0.0,5514
+2015,Missouri,Public Out-of-State,4-year,19410.0,9079.0,28489
+2015,Montana,Private,4-year,21630.0,8006.0,29636
+2015,Montana,Public In-State,2-year,3215.0,0.0,3215
+2015,Montana,Public In-State,4-year,6378.0,8070.0,14448
+2015,Montana,Public Out-of-State,2-year,8923.0,0.0,8923
+2015,Montana,Public Out-of-State,4-year,21481.0,8070.0,29551
+2015,Nebraska,Private,4-year,20501.0,8429.0,28930
+2015,Nebraska,Public In-State,2-year,2743.0,0.0,2743
+2015,Nebraska,Public In-State,4-year,7223.0,8976.0,16199
+2015,Nebraska,Public Out-of-State,2-year,3743.0,0.0,3743
+2015,Nebraska,Public Out-of-State,4-year,18180.0,8976.0,27156
+2015,Nevada,Private,4-year,17325.0,13488.0,30813
+2015,Nevada,Public In-State,2-year,2700.0,0.0,2700
+2015,Nevada,Public In-State,4-year,5016.0,10122.0,15138
+2015,Nevada,Public Out-of-State,2-year,9345.0,0.0,9345
+2015,Nevada,Public Out-of-State,4-year,20064.0,10122.0,30186
+2015,New Hampshire,Private,4-year,31868.0,13128.0,44996
+2015,New Hampshire,Public In-State,2-year,6979.0,0.0,6979
+2015,New Hampshire,Public In-State,4-year,14538.0,11283.0,25821
+2015,New Hampshire,Public Out-of-State,2-year,15202.0,0.0,15202
+2015,New Hampshire,Public Out-of-State,4-year,26131.0,11283.0,37414
+2015,New Jersey,Private,4-year,32986.0,12448.0,45434
+2015,New Jersey,Public In-State,2-year,3982.0,0.0,3982
+2015,New Jersey,Public In-State,4-year,12541.0,12283.0,24824
+2015,New Jersey,Public Out-of-State,2-year,6926.0,0.0,6926
+2015,New Jersey,Public Out-of-State,4-year,26556.0,12283.0,38839
+2015,New Mexico,Private,4-year,18779.0,9685.0,28464
+2015,New Mexico,Public In-State,2-year,1475.0,0.0,1475
+2015,New Mexico,Public In-State,4-year,6003.0,8775.0,14778
+2015,New Mexico,Public Out-of-State,2-year,4636.0,0.0,4636
+2015,New Mexico,Public Out-of-State,4-year,15285.0,8775.0,24060
+2015,New York,Private,4-year,35095.0,13749.0,48844
+2015,New York,Public In-State,2-year,4711.0,0.0,4711
+2015,New York,Public In-State,4-year,7272.0,13277.0,20549
+2015,New York,Public Out-of-State,2-year,8344.0,0.0,8344
+2015,New York,Public Out-of-State,4-year,18825.0,13277.0,32102
+2015,North Carolina,Private,4-year,28177.0,10741.0,38918
+2015,North Carolina,Public In-State,2-year,2355.0,0.0,2355
+2015,North Carolina,Public In-State,4-year,6658.0,9113.0,15771
+2015,North Carolina,Public Out-of-State,2-year,8269.0,0.0,8269
+2015,North Carolina,Public Out-of-State,4-year,22676.0,9113.0,31789
+2015,North Dakota,Private,4-year,13255.0,6248.0,19503
+2015,North Dakota,Public In-State,2-year,4283.0,0.0,4283
+2015,North Dakota,Public In-State,4-year,7050.0,7167.0,14217
+2015,North Dakota,Public Out-of-State,2-year,8441.0,0.0,8441
+2015,North Dakota,Public Out-of-State,4-year,17316.0,7167.0,24483
+2015,Ohio,Private,4-year,27761.0,10215.0,37976
+2015,Ohio,Public In-State,2-year,3610.0,0.0,3610
+2015,Ohio,Public In-State,4-year,9631.0,10906.0,20537
+2015,Ohio,Public Out-of-State,2-year,7512.0,0.0,7512
+2015,Ohio,Public Out-of-State,4-year,22756.0,10906.0,33662
+2015,Oklahoma,Private,4-year,22309.0,8784.0,31093
+2015,Oklahoma,Public In-State,2-year,3244.0,0.0,3244
+2015,Oklahoma,Public In-State,4-year,6345.0,7802.0,14147
+2015,Oklahoma,Public Out-of-State,2-year,7940.0,0.0,7940
+2015,Oklahoma,Public Out-of-State,4-year,17633.0,7802.0,25435
+2015,Oregon,Private,4-year,33108.0,11107.0,44215
+2015,Oregon,Public In-State,2-year,4023.0,0.0,4023
+2015,Oregon,Public In-State,4-year,8891.0,10763.0,19654
+2015,Oregon,Public Out-of-State,2-year,7552.0,0.0,7552
+2015,Oregon,Public Out-of-State,4-year,27341.0,10763.0,38104
+2015,Pennsylvania,Private,4-year,35622.0,12271.0,47893
+2015,Pennsylvania,Public In-State,2-year,4589.0,0.0,4589
+2015,Pennsylvania,Public In-State,4-year,13171.0,10348.0,23519
+2015,Pennsylvania,Public Out-of-State,2-year,11732.0,0.0,11732
+2015,Pennsylvania,Public Out-of-State,4-year,24741.0,10348.0,35089
+2015,Rhode Island,Private,4-year,36205.0,12665.0,48870
+2015,Rhode Island,Public In-State,2-year,3950.0,0.0,3950
+2015,Rhode Island,Public In-State,4-year,10868.0,11162.0,22030
+2015,Rhode Island,Public Out-of-State,2-year,10582.0,0.0,10582
+2015,Rhode Island,Public Out-of-State,4-year,27110.0,11162.0,38272
+2015,South Carolina,Private,4-year,22241.0,8716.0,30957
+2015,South Carolina,Public In-State,2-year,4061.0,0.0,4061
+2015,South Carolina,Public In-State,4-year,11448.0,8906.0,20354
+2015,South Carolina,Public Out-of-State,2-year,8537.0,0.0,8537
+2015,South Carolina,Public Out-of-State,4-year,27814.0,8906.0,36720
+2015,South Dakota,Private,4-year,21018.0,7514.0,28532
+2015,South Dakota,Public In-State,2-year,5014.0,0.0,5014
+2015,South Dakota,Public In-State,4-year,7744.0,7239.0,14983
+2015,South Dakota,Public Out-of-State,2-year,4886.0,0.0,4886
+2015,South Dakota,Public Out-of-State,4-year,10923.0,7239.0,18162
+2015,Tennessee,Private,4-year,23893.0,9290.0,33183
+2015,Tennessee,Public In-State,2-year,3820.0,0.0,3820
+2015,Tennessee,Public In-State,4-year,8495.0,8651.0,17146
+2015,Tennessee,Public Out-of-State,2-year,14859.0,0.0,14859
+2015,Tennessee,Public Out-of-State,4-year,23949.0,8651.0,32600
+2015,Texas,Private,4-year,27552.0,10192.0,37744
+2015,Texas,Public In-State,2-year,1948.0,0.0,1948
+2015,Texas,Public In-State,4-year,7870.0,9002.0,16872
+2015,Texas,Public Out-of-State,2-year,5398.0,0.0,5398
+2015,Texas,Public Out-of-State,4-year,21135.0,9002.0,30137
+2015,Utah,Private,4-year,7747.0,7688.0,15435
+2015,Utah,Public In-State,2-year,3469.0,0.0,3469
+2015,Utah,Public In-State,4-year,5942.0,7028.0,12970
+2015,Utah,Public Out-of-State,2-year,11011.0,0.0,11011
+2015,Utah,Public Out-of-State,4-year,17899.0,7028.0,24927
+2015,Vermont,Private,4-year,37391.0,11820.0,49211
+2015,Vermont,Public In-State,2-year,5886.0,0.0,5886
+2015,Vermont,Public In-State,4-year,14495.0,10492.0,24987
+2015,Vermont,Public Out-of-State,2-year,11622.0,0.0,11622
+2015,Vermont,Public Out-of-State,4-year,35241.0,10492.0,45733
+2015,Virginia,Private,4-year,22835.0,9666.0,32501
+2015,Virginia,Public In-State,2-year,4318.0,0.0,4318
+2015,Virginia,Public In-State,4-year,11057.0,9884.0,20941
+2015,Virginia,Public Out-of-State,2-year,9019.0,0.0,9019
+2015,Virginia,Public Out-of-State,4-year,30416.0,9884.0,40300
+2015,Washington,Private,4-year,32964.0,10322.0,43286
+2015,Washington,Public In-State,2-year,3992.0,0.0,3992
+2015,Washington,Public In-State,4-year,8299.0,10564.0,18863
+2015,Washington,Public Out-of-State,2-year,6887.0,0.0,6887
+2015,Washington,Public Out-of-State,4-year,28539.0,10564.0,39103
+2015,West Virginia,Private,4-year,11055.0,8626.0,19681
+2015,West Virginia,Public In-State,2-year,3628.0,0.0,3628
+2015,West Virginia,Public In-State,4-year,6420.0,9223.0,15643
+2015,West Virginia,Public Out-of-State,2-year,8215.0,0.0,8215
+2015,West Virginia,Public Out-of-State,4-year,17882.0,9223.0,27105
+2015,Wisconsin,Private,4-year,28094.0,9322.0,37416
+2015,Wisconsin,Public In-State,2-year,4323.0,0.0,4323
+2015,Wisconsin,Public In-State,4-year,8441.0,7496.0,15937
+2015,Wisconsin,Public Out-of-State,2-year,7220.0,0.0,7220
+2015,Wisconsin,Public Out-of-State,4-year,20020.0,7496.0,27516
+2015,Wyoming,Private,4-year,16968.0,0.0,16968
+2015,Wyoming,Public In-State,2-year,2694.0,0.0,2694
+2015,Wyoming,Public In-State,4-year,3968.0,9489.0,13457
+2015,Wyoming,Public Out-of-State,2-year,6658.0,0.0,6658
+2015,Wyoming,Public Out-of-State,4-year,12152.0,9489.0,21641
+2016,Alabama,Private,4-year,15359.0,9289.0,24648
+2016,Alabama,Public In-State,2-year,4289.0,0.0,4289
+2016,Alabama,Public In-State,4-year,9179.0,9330.0,18509
+2016,Alabama,Public Out-of-State,2-year,8464.0,0.0,8464
+2016,Alabama,Public Out-of-State,4-year,23261.0,9330.0,32591
+2016,Alaska,Private,4-year,19957.0,6431.0,26388
+2016,Alaska,Public In-State,2-year,3340.0,0.0,3340
+2016,Alaska,Public In-State,4-year,6880.0,9820.0,16700
+2016,Alaska,Public Out-of-State,2-year,3340.0,0.0,3340
+2016,Alaska,Public Out-of-State,4-year,20463.0,9820.0,30283
+2016,Arizona,Private,4-year,12667.0,9577.0,22244
+2016,Arizona,Public In-State,2-year,2061.0,0.0,2061
+2016,Arizona,Public In-State,4-year,9884.0,10737.0,20621
+2016,Arizona,Public Out-of-State,2-year,8255.0,0.0,8255
+2016,Arizona,Public Out-of-State,4-year,24161.0,10737.0,34898
+2016,Arkansas,Private,4-year,20936.0,7891.0,28827
+2016,Arkansas,Public In-State,2-year,3105.0,0.0,3105
+2016,Arkansas,Public In-State,4-year,7577.0,8399.0,15976
+2016,Arkansas,Public Out-of-State,2-year,4638.0,0.0,4638
+2016,Arkansas,Public Out-of-State,4-year,18306.0,8399.0,26705
+2016,California,Private,4-year,29519.0,11663.0,41182
+2016,California,Public In-State,2-year,1246.0,0.0,1246
+2016,California,Public In-State,4-year,9070.0,13081.0,22151
+2016,California,Public Out-of-State,2-year,6968.0,0.0,6968
+2016,California,Public Out-of-State,4-year,31526.0,13081.0,44607
+2016,Colorado,Private,4-year,22332.0,11319.0,33651
+2016,Colorado,Public In-State,2-year,3630.0,0.0,3630
+2016,Colorado,Public In-State,4-year,9128.0,11466.0,20594
+2016,Colorado,Public Out-of-State,2-year,8915.0,0.0,8915
+2016,Colorado,Public Out-of-State,4-year,27986.0,11466.0,39452
+2016,Connecticut,Private,4-year,37679.0,13891.0,51570
+2016,Connecticut,Public In-State,2-year,4039.0,0.0,4039
+2016,Connecticut,Public In-State,4-year,11106.0,12245.0,23351
+2016,Connecticut,Public Out-of-State,2-year,12100.0,0.0,12100
+2016,Connecticut,Public Out-of-State,4-year,32870.0,12245.0,45115
+2016,Delaware,Private,4-year,14200.0,11311.0,25511
+2016,Delaware,Public In-State,2-year,3215.0,0.0,3215
+2016,Delaware,Public In-State,4-year,11670.0,11896.0,23566
+2016,Delaware,Public Out-of-State,2-year,6548.0,0.0,6548
+2016,Delaware,Public Out-of-State,4-year,28962.0,11896.0,40858
+2016,District of Columbia,Private,4-year,38901.0,14671.0,53572
+2016,District of Columbia,Public In-State,4-year,5251.0,0.0,5251
+2016,District of Columbia,Public Out-of-State,4-year,11233.0,0.0,11233
+2016,Florida,Private,4-year,22793.0,11179.0,33972
+2016,Florida,Public In-State,2-year,2387.0,0.0,2387
+2016,Florida,Public In-State,4-year,4438.0,10019.0,14457
+2016,Florida,Public Out-of-State,2-year,8862.0,0.0,8862
+2016,Florida,Public Out-of-State,4-year,17656.0,10019.0,27675
+2016,Georgia,Private,4-year,25754.0,11709.0,37463
+2016,Georgia,Public In-State,2-year,3181.0,0.0,3181
+2016,Georgia,Public In-State,4-year,7011.0,10281.0,17292
+2016,Georgia,Public Out-of-State,2-year,7929.0,0.0,7929
+2016,Georgia,Public Out-of-State,4-year,23167.0,10281.0,33448
+2016,Hawaii,Private,4-year,15561.0,12333.0,27894
+2016,Hawaii,Public In-State,2-year,2935.0,0.0,2935
+2016,Hawaii,Public In-State,4-year,9263.0,10835.0,20098
+2016,Hawaii,Public Out-of-State,2-year,7930.0,0.0,7930
+2016,Hawaii,Public Out-of-State,4-year,27911.0,10835.0,38746
+2016,Idaho,Private,4-year,6006.0,7064.0,13070
+2016,Idaho,Public In-State,2-year,3108.0,0.0,3108
+2016,Idaho,Public In-State,4-year,6915.0,7296.0,14211
+2016,Idaho,Public Out-of-State,2-year,7959.0,0.0,7959
+2016,Idaho,Public Out-of-State,4-year,20624.0,7296.0,27920
+2016,Illinois,Private,4-year,29639.0,11693.0,41332
+2016,Illinois,Public In-State,2-year,3692.0,0.0,3692
+2016,Illinois,Public In-State,4-year,13387.0,10711.0,24098
+2016,Illinois,Public Out-of-State,2-year,10630.0,0.0,10630
+2016,Illinois,Public Out-of-State,4-year,27909.0,10711.0,38620
+2016,Indiana,Private,4-year,30533.0,10497.0,41030
+2016,Indiana,Public In-State,2-year,4115.0,0.0,4115
+2016,Indiana,Public In-State,4-year,8745.0,9967.0,18712
+2016,Indiana,Public Out-of-State,2-year,7992.0,0.0,7992
+2016,Indiana,Public Out-of-State,4-year,28313.0,9967.0,38280
+2016,Iowa,Private,4-year,25308.0,8836.0,34144
+2016,Iowa,Public In-State,2-year,4478.0,0.0,4478
+2016,Iowa,Public In-State,4-year,7879.0,8869.0,16748
+2016,Iowa,Public Out-of-State,2-year,5832.0,0.0,5832
+2016,Iowa,Public Out-of-State,4-year,24136.0,8869.0,33005
+2016,Kansas,Private,4-year,17827.0,8287.0,26114
+2016,Kansas,Public In-State,2-year,3201.0,0.0,3201
+2016,Kansas,Public In-State,4-year,8011.0,8772.0,16783
+2016,Kansas,Public Out-of-State,2-year,4395.0,0.0,4395
+2016,Kansas,Public Out-of-State,4-year,20901.0,8772.0,29673
+2016,Kentucky,Private,4-year,24258.0,8738.0,32996
+2016,Kentucky,Public In-State,2-year,3650.0,0.0,3650
+2016,Kentucky,Public In-State,4-year,9490.0,9212.0,18702
+2016,Kentucky,Public Out-of-State,2-year,12478.0,0.0,12478
+2016,Kentucky,Public Out-of-State,4-year,22321.0,9212.0,31533
+2016,Louisiana,Private,4-year,32733.0,11918.0,44651
+2016,Louisiana,Public In-State,2-year,3919.0,0.0,3919
+2016,Louisiana,Public In-State,4-year,8162.0,9126.0,17288
+2016,Louisiana,Public Out-of-State,2-year,7292.0,0.0,7292
+2016,Louisiana,Public Out-of-State,4-year,23099.0,9126.0,32225
+2016,Maine,Private,4-year,34277.0,12301.0,46578
+2016,Maine,Public In-State,2-year,3648.0,0.0,3648
+2016,Maine,Public In-State,4-year,9186.0,9581.0,18767
+2016,Maine,Public Out-of-State,2-year,6396.0,0.0,6396
+2016,Maine,Public Out-of-State,4-year,25598.0,9581.0,35179
+2016,Maryland,Private,4-year,38352.0,13661.0,52013
+2016,Maryland,Public In-State,2-year,3816.0,0.0,3816
+2016,Maryland,Public In-State,4-year,8942.0,11134.0,20076
+2016,Maryland,Public Out-of-State,2-year,9147.0,0.0,9147
+2016,Maryland,Public Out-of-State,4-year,21768.0,11134.0,32902
+2016,Massachusetts,Private,4-year,40761.0,14263.0,55024
+2016,Massachusetts,Public In-State,2-year,4559.0,0.0,4559
+2016,Massachusetts,Public In-State,4-year,11670.0,11719.0,23389
+2016,Massachusetts,Public Out-of-State,2-year,9944.0,0.0,9944
+2016,Massachusetts,Public Out-of-State,4-year,27736.0,11719.0,39455
+2016,Michigan,Private,4-year,22018.0,8936.0,30954
+2016,Michigan,Public In-State,2-year,3179.0,0.0,3179
+2016,Michigan,Public In-State,4-year,11708.0,9673.0,21381
+2016,Michigan,Public Out-of-State,2-year,6590.0,0.0,6590
+2016,Michigan,Public Out-of-State,4-year,34863.0,9673.0,44536
+2016,Minnesota,Private,4-year,29377.0,9753.0,39130
+2016,Minnesota,Public In-State,2-year,5332.0,0.0,5332
+2016,Minnesota,Public In-State,4-year,10701.0,8564.0,19265
+2016,Minnesota,Public Out-of-State,2-year,5975.0,0.0,5975
+2016,Minnesota,Public Out-of-State,4-year,18295.0,8564.0,26859
+2016,Mississippi,Private,4-year,16438.0,7596.0,24034
+2016,Mississippi,Public In-State,2-year,2645.0,0.0,2645
+2016,Mississippi,Public In-State,4-year,7175.0,9259.0,16434
+2016,Mississippi,Public Out-of-State,2-year,4810.0,0.0,4810
+2016,Mississippi,Public Out-of-State,4-year,18516.0,9259.0,27775
+2016,Missouri,Private,4-year,22416.0,9276.0,31692
+2016,Missouri,Public In-State,2-year,3016.0,0.0,3016
+2016,Missouri,Public In-State,4-year,8178.0,9240.0,17418
+2016,Missouri,Public Out-of-State,2-year,5814.0,0.0,5814
+2016,Missouri,Public Out-of-State,4-year,19860.0,9240.0,29100
+2016,Montana,Private,4-year,22961.0,8278.0,31239
+2016,Montana,Public In-State,2-year,3310.0,0.0,3310
+2016,Montana,Public In-State,4-year,6443.0,8411.0,14854
+2016,Montana,Public Out-of-State,2-year,9177.0,0.0,9177
+2016,Montana,Public Out-of-State,4-year,22145.0,8411.0,30556
+2016,Nebraska,Private,4-year,21641.0,8233.0,29874
+2016,Nebraska,Public In-State,2-year,2852.0,0.0,2852
+2016,Nebraska,Public In-State,4-year,7446.0,9315.0,16761
+2016,Nebraska,Public Out-of-State,2-year,3910.0,0.0,3910
+2016,Nebraska,Public Out-of-State,4-year,18651.0,9315.0,27966
+2016,Nevada,Private,4-year,18827.0,13475.0,32302
+2016,Nevada,Public In-State,2-year,2805.0,0.0,2805
+2016,Nevada,Public In-State,4-year,5298.0,10272.0,15570
+2016,Nevada,Public Out-of-State,2-year,9450.0,0.0,9450
+2016,Nevada,Public Out-of-State,4-year,20355.0,10272.0,30627
+2016,New Hampshire,Private,4-year,31979.0,12966.0,44945
+2016,New Hampshire,Public In-State,2-year,6999.0,0.0,6999
+2016,New Hampshire,Public In-State,4-year,14986.0,11022.0,26008
+2016,New Hampshire,Public Out-of-State,2-year,15204.0,0.0,15204
+2016,New Hampshire,Public Out-of-State,4-year,26795.0,11022.0,37817
+2016,New Jersey,Private,4-year,34040.0,12795.0,46835
+2016,New Jersey,Public In-State,2-year,4223.0,0.0,4223
+2016,New Jersey,Public In-State,4-year,13021.0,12523.0,25544
+2016,New Jersey,Public Out-of-State,2-year,7462.0,0.0,7462
+2016,New Jersey,Public Out-of-State,4-year,27358.0,12523.0,39881
+2016,New Mexico,Private,4-year,20532.0,9864.0,30396
+2016,New Mexico,Public In-State,2-year,1553.0,0.0,1553
+2016,New Mexico,Public In-State,4-year,6262.0,8767.0,15029
+2016,New Mexico,Public Out-of-State,2-year,4909.0,0.0,4909
+2016,New Mexico,Public Out-of-State,4-year,15842.0,8767.0,24609
+2016,New York,Private,4-year,36361.0,13935.0,50296
+2016,New York,Public In-State,2-year,4969.0,0.0,4969
+2016,New York,Public In-State,4-year,7647.0,13843.0,21490
+2016,New York,Public Out-of-State,2-year,8756.0,0.0,8756
+2016,New York,Public Out-of-State,4-year,20305.0,13843.0,34148
+2016,North Carolina,Private,4-year,29307.0,11225.0,40532
+2016,North Carolina,Public In-State,2-year,2391.0,0.0,2391
+2016,North Carolina,Public In-State,4-year,6944.0,9421.0,16365
+2016,North Carolina,Public Out-of-State,2-year,8300.0,0.0,8300
+2016,North Carolina,Public Out-of-State,4-year,23309.0,9421.0,32730
+2016,North Dakota,Private,4-year,13883.0,6220.0,20103
+2016,North Dakota,Public In-State,2-year,4506.0,0.0,4506
+2016,North Dakota,Public In-State,4-year,7208.0,7639.0,14847
+2016,North Dakota,Public Out-of-State,2-year,8719.0,0.0,8719
+2016,North Dakota,Public Out-of-State,4-year,17727.0,7639.0,25366
+2016,Ohio,Private,4-year,28953.0,10496.0,39449
+2016,Ohio,Public In-State,2-year,3642.0,0.0,3642
+2016,Ohio,Public In-State,4-year,9757.0,11174.0,20931
+2016,Ohio,Public Out-of-State,2-year,7738.0,0.0,7738
+2016,Ohio,Public Out-of-State,4-year,23179.0,11174.0,34353
+2016,Oklahoma,Private,4-year,23658.0,8645.0,32303
+2016,Oklahoma,Public In-State,2-year,3349.0,0.0,3349
+2016,Oklahoma,Public In-State,4-year,6680.0,7998.0,14678
+2016,Oklahoma,Public Out-of-State,2-year,8019.0,0.0,8019
+2016,Oklahoma,Public Out-of-State,4-year,18458.0,7998.0,26456
+2016,Oregon,Private,4-year,35034.0,11228.0,46262
+2016,Oregon,Public In-State,2-year,4148.0,0.0,4148
+2016,Oregon,Public In-State,4-year,9406.0,11110.0,20516
+2016,Oregon,Public Out-of-State,2-year,7874.0,0.0,7874
+2016,Oregon,Public Out-of-State,4-year,28676.0,11110.0,39786
+2016,Pennsylvania,Private,4-year,37237.0,12658.0,49895
+2016,Pennsylvania,Public In-State,2-year,4791.0,0.0,4791
+2016,Pennsylvania,Public In-State,4-year,13516.0,10719.0,24235
+2016,Pennsylvania,Public Out-of-State,2-year,11801.0,0.0,11801
+2016,Pennsylvania,Public Out-of-State,4-year,25367.0,10719.0,36086
+2016,Rhode Island,Private,4-year,37406.0,13647.0,51053
+2016,Rhode Island,Public In-State,2-year,4266.0,0.0,4266
+2016,Rhode Island,Public In-State,4-year,11321.0,11401.0,22722
+2016,Rhode Island,Public Out-of-State,2-year,11496.0,0.0,11496
+2016,Rhode Island,Public Out-of-State,4-year,27967.0,11401.0,39368
+2016,South Carolina,Private,4-year,23167.0,8942.0,32109
+2016,South Carolina,Public In-State,2-year,4219.0,0.0,4219
+2016,South Carolina,Public In-State,4-year,11791.0,9359.0,21150
+2016,South Carolina,Public Out-of-State,2-year,8510.0,0.0,8510
+2016,South Carolina,Public Out-of-State,4-year,28702.0,9359.0,38061
+2016,South Dakota,Private,4-year,22164.0,7611.0,29775
+2016,South Dakota,Public In-State,2-year,5419.0,0.0,5419
+2016,South Dakota,Public In-State,4-year,8273.0,7834.0,16107
+2016,South Dakota,Public Out-of-State,2-year,5253.0,0.0,5253
+2016,South Dakota,Public Out-of-State,4-year,11592.0,7834.0,19426
+2016,Tennessee,Private,4-year,25053.0,9567.0,34620
+2016,Tennessee,Public In-State,2-year,3940.0,0.0,3940
+2016,Tennessee,Public In-State,4-year,8932.0,8803.0,17735
+2016,Tennessee,Public Out-of-State,2-year,15346.0,0.0,15346
+2016,Tennessee,Public Out-of-State,4-year,24554.0,8803.0,33357
+2016,Texas,Private,4-year,28880.0,10734.0,39614
+2016,Texas,Public In-State,2-year,2017.0,0.0,2017
+2016,Texas,Public In-State,4-year,8091.0,9304.0,17395
+2016,Texas,Public Out-of-State,2-year,5502.0,0.0,5502
+2016,Texas,Public Out-of-State,4-year,21677.0,9304.0,30981
+2016,Utah,Private,4-year,7571.0,7651.0,15222
+2016,Utah,Public In-State,2-year,3569.0,0.0,3569
+2016,Utah,Public In-State,4-year,6140.0,7204.0,13344
+2016,Utah,Public Out-of-State,2-year,11337.0,0.0,11337
+2016,Utah,Public Out-of-State,4-year,18501.0,7204.0,25705
+2016,Vermont,Private,4-year,39518.0,12345.0,51863
+2016,Vermont,Public In-State,2-year,6054.0,0.0,6054
+2016,Vermont,Public In-State,4-year,15062.0,10848.0,25910
+2016,Vermont,Public Out-of-State,2-year,11958.0,0.0,11958
+2016,Vermont,Public Out-of-State,4-year,36475.0,10848.0,47323
+2016,Virginia,Private,4-year,21016.0,9901.0,30917
+2016,Virginia,Public In-State,2-year,4793.0,0.0,4793
+2016,Virginia,Public In-State,4-year,11669.0,10220.0,21889
+2016,Virginia,Public Out-of-State,2-year,10867.0,0.0,10867
+2016,Virginia,Public Out-of-State,4-year,31559.0,10220.0,41779
+2016,Washington,Private,4-year,34412.0,11058.0,45470
+2016,Washington,Public In-State,2-year,3771.0,0.0,3771
+2016,Washington,Public In-State,4-year,7782.0,10883.0,18665
+2016,Washington,Public Out-of-State,2-year,6565.0,0.0,6565
+2016,Washington,Public Out-of-State,4-year,28849.0,10883.0,39732
+2016,West Virginia,Private,4-year,11721.0,8465.0,20186
+2016,West Virginia,Public In-State,2-year,3825.0,0.0,3825
+2016,West Virginia,Public In-State,4-year,6900.0,9527.0,16427
+2016,West Virginia,Public Out-of-State,2-year,9077.0,0.0,9077
+2016,West Virginia,Public Out-of-State,4-year,18833.0,9527.0,28360
+2016,Wisconsin,Private,4-year,29777.0,9586.0,39363
+2016,Wisconsin,Public In-State,2-year,4382.0,0.0,4382
+2016,Wisconsin,Public In-State,4-year,8504.0,7690.0,16194
+2016,Wisconsin,Public Out-of-State,2-year,7336.0,0.0,7336
+2016,Wisconsin,Public Out-of-State,4-year,21327.0,7690.0,29017
+2016,Wyoming,Private,4-year,18021.0,0.0,18021
+2016,Wyoming,Public In-State,2-year,2788.0,0.0,2788
+2016,Wyoming,Public In-State,4-year,4178.0,9764.0,13942
+2016,Wyoming,Public Out-of-State,2-year,6733.0,0.0,6733
+2016,Wyoming,Public Out-of-State,4-year,12770.0,9764.0,22534
+2017,Alabama,Private,4-year,15422.0,9288.0,24710
+2017,Alabama,Public In-State,2-year,4362.0,0.0,4362
+2017,Alabama,Public In-State,4-year,9466.0,9586.0,19052
+2017,Alabama,Public Out-of-State,2-year,9075.0,0.0,9075
+2017,Alabama,Public Out-of-State,4-year,24000.0,9586.0,33586
+2017,Alaska,Private,4-year,18876.0,7255.0,26131
+2017,Alaska,Public In-State,2-year,3820.0,0.0,3820
+2017,Alaska,Public In-State,4-year,7210.0,10160.0,17370
+2017,Alaska,Public Out-of-State,2-year,3820.0,0.0,3820
+2017,Alaska,Public Out-of-State,4-year,21431.0,10160.0,31591
+2017,Arizona,Private,4-year,13140.0,9419.0,22559
+2017,Arizona,Public In-State,2-year,2129.0,0.0,2129
+2017,Arizona,Public In-State,4-year,10057.0,11434.0,21491
+2017,Arizona,Public Out-of-State,2-year,7931.0,0.0,7931
+2017,Arizona,Public Out-of-State,4-year,25061.0,11434.0,36495
+2017,Arkansas,Private,4-year,21710.0,8094.0,29804
+2017,Arkansas,Public In-State,2-year,3195.0,0.0,3195
+2017,Arkansas,Public In-State,4-year,7924.0,8947.0,16871
+2017,Arkansas,Public Out-of-State,2-year,4582.0,0.0,4582
+2017,Arkansas,Public Out-of-State,4-year,19323.0,8947.0,28270
+2017,California,Private,4-year,31495.0,13227.0,44722
+2017,California,Public In-State,2-year,1262.0,0.0,1262
+2017,California,Public In-State,4-year,7896.0,13459.0,21355
+2017,California,Public Out-of-State,2-year,7120.0,0.0,7120
+2017,California,Public Out-of-State,4-year,28253.0,13459.0,41712
+2017,Colorado,Private,4-year,22627.0,11710.0,34337
+2017,Colorado,Public In-State,2-year,3565.0,0.0,3565
+2017,Colorado,Public In-State,4-year,9352.0,11591.0,20943
+2017,Colorado,Public Out-of-State,2-year,10152.0,0.0,10152
+2017,Colorado,Public Out-of-State,4-year,28986.0,11591.0,40577
+2017,Connecticut,Private,4-year,38975.0,14223.0,53198
+2017,Connecticut,Public In-State,2-year,4189.0,0.0,4189
+2017,Connecticut,Public In-State,4-year,11726.0,12448.0,24174
+2017,Connecticut,Public Out-of-State,2-year,12528.0,0.0,12528
+2017,Connecticut,Public Out-of-State,4-year,32836.0,12448.0,45284
+2017,Delaware,Private,4-year,14383.0,11613.0,25996
+2017,Delaware,Public In-State,4-year,9578.0,12121.0,21699
+2017,Delaware,Public Out-of-State,4-year,28497.0,12121.0,40618
+2017,District of Columbia,Private,4-year,40618.0,15051.0,55669
+2017,District of Columbia,Public In-State,4-year,5612.0,0.0,5612
+2017,District of Columbia,Public Out-of-State,4-year,11756.0,0.0,11756
+2017,Florida,Private,4-year,24360.0,11515.0,35875
+2017,Florida,Public In-State,2-year,2552.0,0.0,2552
+2017,Florida,Public In-State,4-year,4435.0,10371.0,14806
+2017,Florida,Public Out-of-State,2-year,9122.0,0.0,9122
+2017,Florida,Public Out-of-State,4-year,18304.0,10371.0,28675
+2017,Georgia,Private,4-year,27220.0,11897.0,39117
+2017,Georgia,Public In-State,2-year,2895.0,0.0,2895
+2017,Georgia,Public In-State,4-year,7010.0,10343.0,17353
+2017,Georgia,Public Out-of-State,2-year,7958.0,0.0,7958
+2017,Georgia,Public Out-of-State,4-year,21377.0,10343.0,31720
+2017,Hawaii,Private,4-year,15949.0,12443.0,28392
+2017,Hawaii,Public In-State,2-year,3080.0,0.0,3080
+2017,Hawaii,Public In-State,4-year,9712.0,11304.0,21016
+2017,Hawaii,Public Out-of-State,2-year,8216.0,0.0,8216
+2017,Hawaii,Public Out-of-State,4-year,30929.0,11304.0,42233
+2017,Idaho,Private,4-year,5925.0,7085.0,13010
+2017,Idaho,Public In-State,2-year,3227.0,0.0,3227
+2017,Idaho,Public In-State,4-year,7005.0,7452.0,14457
+2017,Idaho,Public Out-of-State,2-year,7589.0,0.0,7589
+2017,Idaho,Public Out-of-State,4-year,21370.0,7452.0,28822
+2017,Illinois,Private,4-year,31298.0,12084.0,43382
+2017,Illinois,Public In-State,2-year,3749.0,0.0,3749
+2017,Illinois,Public In-State,4-year,13636.0,10905.0,24541
+2017,Illinois,Public Out-of-State,2-year,10748.0,0.0,10748
+2017,Illinois,Public Out-of-State,4-year,28167.0,10905.0,39072
+2017,Indiana,Private,4-year,30926.0,10922.0,41848
+2017,Indiana,Public In-State,2-year,4175.0,0.0,4175
+2017,Indiana,Public In-State,4-year,8876.0,10124.0,19000
+2017,Indiana,Public Out-of-State,2-year,8052.0,0.0,8052
+2017,Indiana,Public Out-of-State,4-year,28315.0,10124.0,38439
+2017,Iowa,Private,4-year,26742.0,9039.0,35781
+2017,Iowa,Public In-State,2-year,4791.0,0.0,4791
+2017,Iowa,Public In-State,4-year,8361.0,9243.0,17604
+2017,Iowa,Public Out-of-State,2-year,6406.0,0.0,6406
+2017,Iowa,Public Out-of-State,4-year,24912.0,9243.0,34155
+2017,Kansas,Private,4-year,20291.0,8455.0,28746
+2017,Kansas,Public In-State,2-year,3222.0,0.0,3222
+2017,Kansas,Public In-State,4-year,8489.0,9072.0,17561
+2017,Kansas,Public Out-of-State,2-year,4548.0,0.0,4548
+2017,Kansas,Public Out-of-State,4-year,22000.0,9072.0,31072
+2017,Kentucky,Private,4-year,25845.0,9049.0,34894
+2017,Kentucky,Public In-State,2-year,3962.0,0.0,3962
+2017,Kentucky,Public In-State,4-year,10014.0,9659.0,19673
+2017,Kentucky,Public Out-of-State,2-year,13321.0,0.0,13321
+2017,Kentucky,Public Out-of-State,4-year,23539.0,9659.0,33198
+2017,Louisiana,Private,4-year,35190.0,12369.0,47559
+2017,Louisiana,Public In-State,2-year,4031.0,0.0,4031
+2017,Louisiana,Public In-State,4-year,8813.0,9506.0,18319
+2017,Louisiana,Public Out-of-State,2-year,6496.0,0.0,6496
+2017,Louisiana,Public Out-of-State,4-year,22771.0,9506.0,32277
+2017,Maine,Private,4-year,35547.0,12560.0,48107
+2017,Maine,Public In-State,2-year,3673.0,0.0,3673
+2017,Maine,Public In-State,4-year,9219.0,9854.0,19073
+2017,Maine,Public Out-of-State,2-year,6494.0,0.0,6494
+2017,Maine,Public Out-of-State,4-year,26004.0,9854.0,35858
+2017,Maryland,Private,4-year,40209.0,13566.0,53775
+2017,Maryland,Public In-State,2-year,3983.0,0.0,3983
+2017,Maryland,Public In-State,4-year,9083.0,11564.0,20647
+2017,Maryland,Public Out-of-State,2-year,9170.0,0.0,9170
+2017,Maryland,Public Out-of-State,4-year,22437.0,11564.0,34001
+2017,Massachusetts,Private,4-year,42655.0,14708.0,57363
+2017,Massachusetts,Public In-State,2-year,4785.0,0.0,4785
+2017,Massachusetts,Public In-State,4-year,12331.0,12142.0,24473
+2017,Massachusetts,Public Out-of-State,2-year,9785.0,0.0,9785
+2017,Massachusetts,Public Out-of-State,4-year,28740.0,12142.0,40882
+2017,Michigan,Private,4-year,24058.0,9440.0,33498
+2017,Michigan,Public In-State,2-year,3423.0,0.0,3423
+2017,Michigan,Public In-State,4-year,11890.0,9942.0,21832
+2017,Michigan,Public Out-of-State,2-year,6474.0,0.0,6474
+2017,Michigan,Public Out-of-State,4-year,36714.0,9942.0,46656
+2017,Minnesota,Private,4-year,30925.0,10014.0,40939
+2017,Minnesota,Public In-State,2-year,5310.0,0.0,5310
+2017,Minnesota,Public In-State,4-year,10883.0,8844.0,19727
+2017,Minnesota,Public Out-of-State,2-year,6053.0,0.0,6053
+2017,Minnesota,Public Out-of-State,4-year,19088.0,8844.0,27932
+2017,Mississippi,Private,4-year,16949.0,7749.0,24698
+2017,Mississippi,Public In-State,2-year,2830.0,0.0,2830
+2017,Mississippi,Public In-State,4-year,7472.0,9372.0,16844
+2017,Mississippi,Public Out-of-State,2-year,5176.0,0.0,5176
+2017,Mississippi,Public Out-of-State,4-year,19138.0,9372.0,28510
+2017,Missouri,Private,4-year,23702.0,9731.0,33433
+2017,Missouri,Public In-State,2-year,3028.0,0.0,3028
+2017,Missouri,Public In-State,4-year,8176.0,9463.0,17639
+2017,Missouri,Public Out-of-State,2-year,5737.0,0.0,5737
+2017,Missouri,Public Out-of-State,4-year,18940.0,9463.0,28403
+2017,Montana,Private,4-year,23657.0,8718.0,32375
+2017,Montana,Public In-State,2-year,3381.0,0.0,3381
+2017,Montana,Public In-State,4-year,6503.0,8738.0,15241
+2017,Montana,Public Out-of-State,2-year,8210.0,0.0,8210
+2017,Montana,Public Out-of-State,4-year,22956.0,8738.0,31694
+2017,Nebraska,Private,4-year,23109.0,9091.0,32200
+2017,Nebraska,Public In-State,2-year,2991.0,0.0,2991
+2017,Nebraska,Public In-State,4-year,7732.0,9647.0,17379
+2017,Nebraska,Public Out-of-State,2-year,3941.0,0.0,3941
+2017,Nebraska,Public Out-of-State,4-year,19483.0,9647.0,29130
+2017,Nevada,Private,4-year,21423.0,13630.0,35053
+2017,Nevada,Public In-State,2-year,2910.0,0.0,2910
+2017,Nevada,Public In-State,4-year,5520.0,11625.0,17145
+2017,Nevada,Public Out-of-State,2-year,9555.0,0.0,9555
+2017,Nevada,Public Out-of-State,4-year,20672.0,11625.0,32297
+2017,New Hampshire,Private,4-year,33235.0,13298.0,46533
+2017,New Hampshire,Public In-State,2-year,7002.0,0.0,7002
+2017,New Hampshire,Public In-State,4-year,15491.0,11477.0,26968
+2017,New Hampshire,Public Out-of-State,2-year,15157.0,0.0,15157
+2017,New Hampshire,Public Out-of-State,4-year,27201.0,11477.0,38678
+2017,New Jersey,Private,4-year,35224.0,13215.0,48439
+2017,New Jersey,Public In-State,2-year,4366.0,0.0,4366
+2017,New Jersey,Public In-State,4-year,13297.0,12773.0,26070
+2017,New Jersey,Public Out-of-State,2-year,7692.0,0.0,7692
+2017,New Jersey,Public Out-of-State,4-year,28051.0,12773.0,40824
+2017,New Mexico,Private,4-year,22535.0,9838.0,32373
+2017,New Mexico,Public In-State,2-year,1590.0,0.0,1590
+2017,New Mexico,Public In-State,4-year,6825.0,8704.0,15529
+2017,New Mexico,Public Out-of-State,2-year,4749.0,0.0,4749
+2017,New Mexico,Public Out-of-State,4-year,17272.0,8704.0,25976
+2017,New York,Private,4-year,37580.0,14210.0,51790
+2017,New York,Public In-State,2-year,5122.0,0.0,5122
+2017,New York,Public In-State,4-year,7709.0,14042.0,21751
+2017,New York,Public Out-of-State,2-year,8857.0,0.0,8857
+2017,New York,Public Out-of-State,4-year,21454.0,14042.0,35496
+2017,North Carolina,Private,4-year,30701.0,11611.0,42312
+2017,North Carolina,Public In-State,2-year,2470.0,0.0,2470
+2017,North Carolina,Public In-State,4-year,7218.0,9417.0,16635
+2017,North Carolina,Public Out-of-State,2-year,8481.0,0.0,8481
+2017,North Carolina,Public Out-of-State,4-year,23778.0,9417.0,33195
+2017,North Dakota,Private,4-year,14290.0,6674.0,20964
+2017,North Dakota,Public In-State,2-year,4562.0,0.0,4562
+2017,North Dakota,Public In-State,4-year,7376.0,8011.0,15387
+2017,North Dakota,Public Out-of-State,2-year,9484.0,0.0,9484
+2017,North Dakota,Public Out-of-State,4-year,18288.0,8011.0,26299
+2017,Ohio,Private,4-year,30296.0,10685.0,40981
+2017,Ohio,Public In-State,2-year,3655.0,0.0,3655
+2017,Ohio,Public In-State,4-year,9827.0,11133.0,20960
+2017,Ohio,Public Out-of-State,2-year,5721.0,0.0,5721
+2017,Ohio,Public Out-of-State,4-year,23434.0,11133.0,34567
+2017,Oklahoma,Private,4-year,24776.0,9108.0,33884
+2017,Oklahoma,Public In-State,2-year,3627.0,0.0,3627
+2017,Oklahoma,Public In-State,4-year,7219.0,8536.0,15755
+2017,Oklahoma,Public Out-of-State,2-year,8582.0,0.0,8582
+2017,Oklahoma,Public Out-of-State,4-year,19174.0,8536.0,27710
+2017,Oregon,Private,4-year,37088.0,11614.0,48702
+2017,Oregon,Public In-State,2-year,4263.0,0.0,4263
+2017,Oregon,Public In-State,4-year,9739.0,11585.0,21324
+2017,Oregon,Public Out-of-State,2-year,8410.0,0.0,8410
+2017,Oregon,Public Out-of-State,4-year,29330.0,11585.0,40915
+2017,Pennsylvania,Private,4-year,39185.0,12947.0,52132
+2017,Pennsylvania,Public In-State,2-year,5048.0,0.0,5048
+2017,Pennsylvania,Public In-State,4-year,14068.0,11264.0,25332
+2017,Pennsylvania,Public Out-of-State,2-year,12833.0,0.0,12833
+2017,Pennsylvania,Public Out-of-State,4-year,26328.0,11264.0,37592
+2017,Rhode Island,Private,4-year,38855.0,14018.0,52873
+2017,Rhode Island,Public In-State,2-year,4266.0,0.0,4266
+2017,Rhode Island,Public In-State,4-year,11386.0,11749.0,23135
+2017,Rhode Island,Public Out-of-State,2-year,11496.0,0.0,11496
+2017,Rhode Island,Public Out-of-State,4-year,27815.0,11749.0,39564
+2017,South Carolina,Private,4-year,24523.0,9225.0,33748
+2017,South Carolina,Public In-State,2-year,4418.0,0.0,4418
+2017,South Carolina,Public In-State,4-year,12153.0,9355.0,21508
+2017,South Carolina,Public Out-of-State,2-year,9730.0,0.0,9730
+2017,South Carolina,Public Out-of-State,4-year,29888.0,9355.0,39243
+2017,South Dakota,Private,4-year,23147.0,7779.0,30926
+2017,South Dakota,Public In-State,2-year,5803.0,0.0,5803
+2017,South Dakota,Public In-State,4-year,8301.0,7753.0,16054
+2017,South Dakota,Public Out-of-State,2-year,5660.0,0.0,5660
+2017,South Dakota,Public Out-of-State,4-year,11845.0,7753.0,19598
+2017,Tennessee,Private,4-year,25985.0,9944.0,35929
+2017,Tennessee,Public In-State,2-year,4048.0,0.0,4048
+2017,Tennessee,Public In-State,4-year,9287.0,9053.0,18340
+2017,Tennessee,Public Out-of-State,2-year,15540.0,0.0,15540
+2017,Tennessee,Public Out-of-State,4-year,24802.0,9053.0,33855
+2017,Texas,Private,4-year,31009.0,10970.0,41979
+2017,Texas,Public In-State,2-year,2099.0,0.0,2099
+2017,Texas,Public In-State,4-year,8375.0,9424.0,17799
+2017,Texas,Public Out-of-State,2-year,6100.0,0.0,6100
+2017,Texas,Public Out-of-State,4-year,23511.0,9424.0,32935
+2017,Utah,Private,4-year,7445.0,7766.0,15211
+2017,Utah,Public In-State,2-year,3690.0,0.0,3690
+2017,Utah,Public In-State,4-year,6334.0,7376.0,13710
+2017,Utah,Public Out-of-State,2-year,11728.0,0.0,11728
+2017,Utah,Public Out-of-State,4-year,19407.0,7376.0,26783
+2017,Vermont,Private,4-year,41063.0,12940.0,54003
+2017,Vermont,Public In-State,2-year,6222.0,0.0,6222
+2017,Vermont,Public In-State,4-year,15537.0,11249.0,26786
+2017,Vermont,Public Out-of-State,2-year,12294.0,0.0,12294
+2017,Vermont,Public Out-of-State,4-year,37991.0,11249.0,49240
+2017,Virginia,Private,4-year,22286.0,10330.0,32616
+2017,Virginia,Public In-State,2-year,4962.0,0.0,4962
+2017,Virginia,Public In-State,4-year,12126.0,10442.0,22568
+2017,Virginia,Public Out-of-State,2-year,11080.0,0.0,11080
+2017,Virginia,Public Out-of-State,4-year,32250.0,10442.0,42692
+2017,Washington,Private,4-year,35288.0,11458.0,46746
+2017,Washington,Public In-State,2-year,3848.0,0.0,3848
+2017,Washington,Public In-State,4-year,6903.0,11150.0,18053
+2017,Washington,Public Out-of-State,2-year,6647.0,0.0,6647
+2017,Washington,Public Out-of-State,4-year,28128.0,11150.0,39278
+2017,West Virginia,Private,4-year,12206.0,8692.0,20898
+2017,West Virginia,Public In-State,2-year,4009.0,0.0,4009
+2017,West Virginia,Public In-State,4-year,7241.0,9855.0,17096
+2017,West Virginia,Public Out-of-State,2-year,9241.0,0.0,9241
+2017,West Virginia,Public Out-of-State,4-year,20030.0,9855.0,29885
+2017,Wisconsin,Private,4-year,31662.0,9841.0,41503
+2017,Wisconsin,Public In-State,2-year,4292.0,0.0,4292
+2017,Wisconsin,Public In-State,4-year,8419.0,7827.0,16246
+2017,Wisconsin,Public Out-of-State,2-year,6223.0,0.0,6223
+2017,Wisconsin,Public Out-of-State,4-year,22574.0,7827.0,30401
+2017,Wyoming,Private,4-year,18021.0,0.0,18021
+2017,Wyoming,Public In-State,2-year,2987.0,0.0,2987
+2017,Wyoming,Public In-State,4-year,4311.0,10043.0,14354
+2017,Wyoming,Public Out-of-State,2-year,7292.0,0.0,7292
+2017,Wyoming,Public Out-of-State,4-year,13239.0,10043.0,23282
+2018,Alabama,Private,4-year,16321.0,9843.0,26164
+2018,Alabama,Public In-State,2-year,4403.0,0.0,4403
+2018,Alabama,Public In-State,4-year,9827.0,9846.0,19673
+2018,Alabama,Public Out-of-State,2-year,9133.0,0.0,9133
+2018,Alabama,Public Out-of-State,4-year,24939.0,9846.0,34785
+2018,Alaska,Private,4-year,19360.0,7527.0,26887
+2018,Alaska,Public In-State,4-year,7221.0,11152.0,18373
+2018,Alaska,Public Out-of-State,4-year,21284.0,11152.0,32436
+2018,Arizona,Private,4-year,13487.0,9451.0,22938
+2018,Arizona,Public In-State,2-year,2152.0,0.0,2152
+2018,Arizona,Public In-State,4-year,10557.0,12072.0,22629
+2018,Arizona,Public Out-of-State,2-year,8067.0,0.0,8067
+2018,Arizona,Public Out-of-State,4-year,26067.0,12072.0,38139
+2018,Arkansas,Private,4-year,22610.0,8218.0,30828
+2018,Arkansas,Public In-State,2-year,3291.0,0.0,3291
+2018,Arkansas,Public In-State,4-year,8187.0,9292.0,17479
+2018,Arkansas,Public Out-of-State,2-year,4762.0,0.0,4762
+2018,Arkansas,Public Out-of-State,4-year,20061.0,9292.0,29353
+2018,California,Private,4-year,33483.0,13927.0,47410
+2018,California,Public In-State,2-year,1268.0,0.0,1268
+2018,California,Public In-State,4-year,8020.0,14061.0,22081
+2018,California,Public Out-of-State,2-year,7504.0,0.0,7504
+2018,California,Public Out-of-State,4-year,29173.0,14061.0,43234
+2018,Colorado,Private,4-year,22873.0,12280.0,35153
+2018,Colorado,Public In-State,2-year,3638.0,0.0,3638
+2018,Colorado,Public In-State,4-year,9540.0,11974.0,21514
+2018,Colorado,Public Out-of-State,2-year,10354.0,0.0,10354
+2018,Colorado,Public Out-of-State,4-year,29846.0,11974.0,41820
+2018,Connecticut,Private,4-year,40410.0,14409.0,54819
+2018,Connecticut,Public In-State,2-year,4312.0,0.0,4312
+2018,Connecticut,Public In-State,4-year,12355.0,12827.0,25182
+2018,Connecticut,Public Out-of-State,2-year,12879.0,0.0,12879
+2018,Connecticut,Public Out-of-State,4-year,33741.0,12827.0,46568
+2018,Delaware,Private,4-year,15096.0,11831.0,26927
+2018,Delaware,Public In-State,4-year,9999.0,12372.0,22371
+2018,Delaware,Public Out-of-State,4-year,29356.0,12372.0,41728
+2018,District of Columbia,Private,4-year,41775.0,15835.0,57610
+2018,District of Columbia,Public In-State,4-year,5756.0,0.0,5756
+2018,District of Columbia,Public Out-of-State,4-year,12092.0,0.0,12092
+2018,Florida,Private,4-year,25531.0,11804.0,37335
+2018,Florida,Public In-State,2-year,2506.0,0.0,2506
+2018,Florida,Public In-State,4-year,4455.0,10441.0,14896
+2018,Florida,Public Out-of-State,2-year,9111.0,0.0,9111
+2018,Florida,Public Out-of-State,4-year,18241.0,10441.0,28682
+2018,Georgia,Private,4-year,27813.0,12600.0,40413
+2018,Georgia,Public In-State,2-year,2901.0,0.0,2901
+2018,Georgia,Public In-State,4-year,7206.0,10499.0,17705
+2018,Georgia,Public Out-of-State,2-year,8090.0,0.0,8090
+2018,Georgia,Public Out-of-State,4-year,21957.0,10499.0,32456
+2018,Hawaii,Private,4-year,16447.0,12411.0,28858
+2018,Hawaii,Public In-State,2-year,3080.0,0.0,3080
+2018,Hawaii,Public In-State,4-year,9709.0,11492.0,21201
+2018,Hawaii,Public Out-of-State,2-year,8216.0,0.0,8216
+2018,Hawaii,Public Out-of-State,4-year,31019.0,11492.0,42511
+2018,Idaho,Private,4-year,5833.0,7655.0,13488
+2018,Idaho,Public In-State,2-year,3282.0,0.0,3282
+2018,Idaho,Public In-State,4-year,7247.0,8208.0,15455
+2018,Idaho,Public Out-of-State,2-year,7732.0,0.0,7732
+2018,Idaho,Public Out-of-State,4-year,22601.0,8208.0,30809
+2018,Illinois,Private,4-year,32491.0,12554.0,45045
+2018,Illinois,Public In-State,2-year,3891.0,0.0,3891
+2018,Illinois,Public In-State,4-year,13971.0,11118.0,25089
+2018,Illinois,Public Out-of-State,2-year,10989.0,0.0,10989
+2018,Illinois,Public Out-of-State,4-year,28618.0,11118.0,39736
+2018,Indiana,Private,4-year,32338.0,11425.0,43763
+2018,Indiana,Public In-State,2-year,4255.0,0.0,4255
+2018,Indiana,Public In-State,4-year,9038.0,10259.0,19297
+2018,Indiana,Public Out-of-State,2-year,8211.0,0.0,8211
+2018,Indiana,Public Out-of-State,4-year,28805.0,10259.0,39064
+2018,Iowa,Private,4-year,27991.0,9389.0,37380
+2018,Iowa,Public In-State,2-year,4923.0,0.0,4923
+2018,Iowa,Public In-State,4-year,8766.0,9660.0,18426
+2018,Iowa,Public Out-of-State,2-year,6581.0,0.0,6581
+2018,Iowa,Public Out-of-State,4-year,26214.0,9660.0,35874
+2018,Kansas,Private,4-year,21316.0,8924.0,30240
+2018,Kansas,Public In-State,2-year,3382.0,0.0,3382
+2018,Kansas,Public In-State,4-year,8737.0,9227.0,17964
+2018,Kansas,Public Out-of-State,2-year,4611.0,0.0,4611
+2018,Kansas,Public Out-of-State,4-year,22615.0,9227.0,31842
+2018,Kentucky,Private,4-year,26719.0,9229.0,35948
+2018,Kentucky,Public In-State,2-year,4106.0,0.0,4106
+2018,Kentucky,Public In-State,4-year,10365.0,10380.0,20745
+2018,Kentucky,Public Out-of-State,2-year,13825.0,0.0,13825
+2018,Kentucky,Public Out-of-State,4-year,24632.0,10380.0,35012
+2018,Louisiana,Private,4-year,36715.0,12737.0,49452
+2018,Louisiana,Public In-State,2-year,4092.0,0.0,4092
+2018,Louisiana,Public In-State,4-year,9165.0,9671.0,18836
+2018,Louisiana,Public Out-of-State,2-year,7057.0,0.0,7057
+2018,Louisiana,Public Out-of-State,4-year,21632.0,9671.0,31303
+2018,Maine,Private,4-year,37043.0,12951.0,49994
+2018,Maine,Public In-State,2-year,3698.0,0.0,3698
+2018,Maine,Public In-State,4-year,9664.0,9836.0,19500
+2018,Maine,Public Out-of-State,2-year,6498.0,0.0,6498
+2018,Maine,Public Out-of-State,4-year,26939.0,9836.0,36775
+2018,Maryland,Private,4-year,41859.0,13826.0,55685
+2018,Maryland,Public In-State,2-year,4090.0,0.0,4090
+2018,Maryland,Public In-State,4-year,9289.0,11888.0,21177
+2018,Maryland,Public Out-of-State,2-year,9467.0,0.0,9467
+2018,Maryland,Public Out-of-State,4-year,24353.0,11888.0,36241
+2018,Massachusetts,Private,4-year,44384.0,15175.0,59559
+2018,Massachusetts,Public In-State,2-year,4991.0,0.0,4991
+2018,Massachusetts,Public In-State,4-year,12778.0,12451.0,25229
+2018,Massachusetts,Public Out-of-State,2-year,10006.0,0.0,10006
+2018,Massachusetts,Public Out-of-State,4-year,29774.0,12451.0,42225
+2018,Michigan,Private,4-year,26964.0,9700.0,36664
+2018,Michigan,Public In-State,2-year,3469.0,0.0,3469
+2018,Michigan,Public In-State,4-year,12435.0,10230.0,22665
+2018,Michigan,Public Out-of-State,2-year,6552.0,0.0,6552
+2018,Michigan,Public Out-of-State,4-year,37600.0,10230.0,47830
+2018,Minnesota,Private,4-year,32416.0,10300.0,42716
+2018,Minnesota,Public In-State,2-year,5381.0,0.0,5381
+2018,Minnesota,Public In-State,4-year,11226.0,9194.0,20420
+2018,Minnesota,Public Out-of-State,2-year,6113.0,0.0,6113
+2018,Minnesota,Public Out-of-State,4-year,20736.0,9194.0,29930
+2018,Mississippi,Private,4-year,17625.0,8149.0,25774
+2018,Mississippi,Public In-State,2-year,3182.0,0.0,3182
+2018,Mississippi,Public In-State,4-year,7980.0,9739.0,17719
+2018,Mississippi,Public Out-of-State,2-year,5626.0,0.0,5626
+2018,Mississippi,Public Out-of-State,4-year,19691.0,9739.0,29430
+2018,Missouri,Private,4-year,24615.0,10008.0,34623
+2018,Missouri,Public In-State,2-year,3273.0,0.0,3273
+2018,Missouri,Public In-State,4-year,8387.0,9719.0,18106
+2018,Missouri,Public Out-of-State,2-year,6157.0,0.0,6157
+2018,Missouri,Public Out-of-State,4-year,19519.0,9719.0,29238
+2018,Montana,Private,4-year,24953.0,8786.0,33739
+2018,Montana,Public In-State,2-year,3631.0,0.0,3631
+2018,Montana,Public In-State,4-year,6783.0,9018.0,15801
+2018,Montana,Public Out-of-State,2-year,8482.0,0.0,8482
+2018,Montana,Public Out-of-State,4-year,23678.0,9018.0,32696
+2018,Nebraska,Private,4-year,23659.0,10939.0,34598
+2018,Nebraska,Public In-State,2-year,3212.0,0.0,3212
+2018,Nebraska,Public In-State,4-year,8188.0,10260.0,18448
+2018,Nebraska,Public Out-of-State,2-year,4101.0,0.0,4101
+2018,Nebraska,Public Out-of-State,4-year,20555.0,10260.0,30815
+2018,Nevada,Private,4-year,23261.0,12902.0,36163
+2018,Nevada,Public In-State,2-year,3075.0,0.0,3075
+2018,Nevada,Public In-State,4-year,5920.0,10890.0,16810
+2018,Nevada,Public Out-of-State,2-year,9853.0,0.0,9853
+2018,Nevada,Public Out-of-State,4-year,21176.0,10890.0,32066
+2018,New Hampshire,Private,4-year,33322.0,13709.0,47031
+2018,New Hampshire,Public In-State,2-year,7337.0,0.0,7337
+2018,New Hampshire,Public In-State,4-year,15949.0,11621.0,27570
+2018,New Hampshire,Public Out-of-State,2-year,15906.0,0.0,15906
+2018,New Hampshire,Public Out-of-State,4-year,28130.0,11621.0,39751
+2018,New Jersey,Private,4-year,36589.0,13732.0,50321
+2018,New Jersey,Public In-State,2-year,4536.0,0.0,4536
+2018,New Jersey,Public In-State,4-year,13633.0,12908.0,26541
+2018,New Jersey,Public Out-of-State,2-year,8049.0,0.0,8049
+2018,New Jersey,Public Out-of-State,4-year,28649.0,12908.0,41557
+2018,New Mexico,Private,4-year,23865.0,9755.0,33620
+2018,New Mexico,Public In-State,2-year,1666.0,0.0,1666
+2018,New Mexico,Public In-State,4-year,6718.0,9085.0,15803
+2018,New Mexico,Public Out-of-State,2-year,5318.0,0.0,5318
+2018,New Mexico,Public Out-of-State,4-year,17533.0,9085.0,26618
+2018,New York,Private,4-year,39007.0,14653.0,53660
+2018,New York,Public In-State,2-year,5229.0,0.0,5229
+2018,New York,Public In-State,4-year,7938.0,14405.0,22343
+2018,New York,Public Out-of-State,2-year,9151.0,0.0,9151
+2018,New York,Public Out-of-State,4-year,21662.0,14405.0,36067
+2018,North Carolina,Private,4-year,32140.0,11910.0,44050
+2018,North Carolina,Public In-State,2-year,2499.0,0.0,2499
+2018,North Carolina,Public In-State,4-year,7354.0,9989.0,17343
+2018,North Carolina,Public Out-of-State,2-year,8496.0,0.0,8496
+2018,North Carolina,Public Out-of-State,4-year,24274.0,9989.0,34263
+2018,North Dakota,Private,4-year,15256.0,7255.0,22511
+2018,North Dakota,Public In-State,2-year,4700.0,0.0,4700
+2018,North Dakota,Public In-State,4-year,7687.0,8311.0,15998
+2018,North Dakota,Public Out-of-State,2-year,9429.0,0.0,9429
+2018,North Dakota,Public Out-of-State,4-year,19021.0,8311.0,27332
+2018,Ohio,Private,4-year,31242.0,11012.0,42254
+2018,Ohio,Public In-State,2-year,3672.0,0.0,3672
+2018,Ohio,Public In-State,4-year,10026.0,11648.0,21674
+2018,Ohio,Public Out-of-State,2-year,7456.0,0.0,7456
+2018,Ohio,Public Out-of-State,4-year,24098.0,11648.0,35746
+2018,Oklahoma,Private,4-year,26240.0,9302.0,35542
+2018,Oklahoma,Public In-State,2-year,3876.0,0.0,3876
+2018,Oklahoma,Public In-State,4-year,7623.0,8641.0,16264
+2018,Oklahoma,Public Out-of-State,2-year,9059.0,0.0,9059
+2018,Oklahoma,Public Out-of-State,4-year,20200.0,8641.0,28841
+2018,Oregon,Private,4-year,38674.0,11943.0,50617
+2018,Oregon,Public In-State,2-year,4487.0,0.0,4487
+2018,Oregon,Public In-State,4-year,10363.0,12347.0,22710
+2018,Oregon,Public Out-of-State,2-year,8503.0,0.0,8503
+2018,Oregon,Public Out-of-State,4-year,30487.0,12347.0,42834
+2018,Pennsylvania,Private,4-year,40068.0,13171.0,53239
+2018,Pennsylvania,Public In-State,2-year,5173.0,0.0,5173
+2018,Pennsylvania,Public In-State,4-year,14534.0,11261.0,25795
+2018,Pennsylvania,Public Out-of-State,2-year,13679.0,0.0,13679
+2018,Pennsylvania,Public Out-of-State,4-year,27129.0,11261.0,38390
+2018,Rhode Island,Private,4-year,40361.0,14516.0,54877
+2018,Rhode Island,Public In-State,2-year,4564.0,0.0,4564
+2018,Rhode Island,Public In-State,4-year,12239.0,12041.0,24280
+2018,Rhode Island,Public Out-of-State,2-year,12156.0,0.0,12156
+2018,Rhode Island,Public Out-of-State,4-year,29013.0,12041.0,41054
+2018,South Carolina,Private,4-year,24931.0,9490.0,34421
+2018,South Carolina,Public In-State,2-year,4502.0,0.0,4502
+2018,South Carolina,Public In-State,4-year,12579.0,9553.0,22132
+2018,South Carolina,Public Out-of-State,2-year,9480.0,0.0,9480
+2018,South Carolina,Public Out-of-State,4-year,30919.0,9553.0,40472
+2018,South Dakota,Private,4-year,24219.0,7938.0,32157
+2018,South Dakota,Public In-State,2-year,6026.0,0.0,6026
+2018,South Dakota,Public In-State,4-year,8540.0,7881.0,16421
+2018,South Dakota,Public Out-of-State,2-year,5853.0,0.0,5853
+2018,South Dakota,Public Out-of-State,4-year,12060.0,7881.0,19941
+2018,Tennessee,Private,4-year,26939.0,10223.0,37162
+2018,Tennessee,Public In-State,2-year,4148.0,0.0,4148
+2018,Tennessee,Public In-State,4-year,9574.0,9376.0,18950
+2018,Tennessee,Public Out-of-State,2-year,16140.0,0.0,16140
+2018,Tennessee,Public Out-of-State,4-year,25378.0,9376.0,34754
+2018,Texas,Private,4-year,32482.0,11384.0,43866
+2018,Texas,Public In-State,2-year,2209.0,0.0,2209
+2018,Texas,Public In-State,4-year,8645.0,9626.0,18271
+2018,Texas,Public Out-of-State,2-year,6418.0,0.0,6418
+2018,Texas,Public Out-of-State,4-year,24937.0,9626.0,34563
+2018,Utah,Private,4-year,7548.0,7841.0,15389
+2018,Utah,Public In-State,2-year,3781.0,0.0,3781
+2018,Utah,Public In-State,4-year,6557.0,7617.0,14174
+2018,Utah,Public Out-of-State,2-year,12020.0,0.0,12020
+2018,Utah,Public Out-of-State,4-year,20168.0,7617.0,27785
+2018,Vermont,Private,4-year,42637.0,13536.0,56173
+2018,Vermont,Public In-State,2-year,6414.0,0.0,6414
+2018,Vermont,Public In-State,4-year,16103.0,11679.0,27782
+2018,Vermont,Public Out-of-State,2-year,12678.0,0.0,12678
+2018,Vermont,Public Out-of-State,4-year,38968.0,11679.0,50647
+2018,Virginia,Private,4-year,23014.0,10644.0,33658
+2018,Virginia,Public In-State,2-year,5118.0,0.0,5118
+2018,Virginia,Public In-State,4-year,12637.0,10790.0,23427
+2018,Virginia,Public Out-of-State,2-year,11275.0,0.0,11275
+2018,Virginia,Public Out-of-State,4-year,33428.0,10790.0,44218
+2018,Washington,Private,4-year,36807.0,11711.0,48518
+2018,Washington,Public In-State,2-year,4078.0,0.0,4078
+2018,Washington,Public In-State,4-year,6830.0,11492.0,18322
+2018,Washington,Public Out-of-State,2-year,5976.0,0.0,5976
+2018,Washington,Public Out-of-State,4-year,28263.0,11492.0,39755
+2018,West Virginia,Private,4-year,12341.0,8959.0,21300
+2018,West Virginia,Public In-State,2-year,4076.0,0.0,4076
+2018,West Virginia,Public In-State,4-year,7619.0,10184.0,17803
+2018,West Virginia,Public Out-of-State,2-year,9410.0,0.0,9410
+2018,West Virginia,Public Out-of-State,4-year,21032.0,10184.0,31216
+2018,Wisconsin,Private,4-year,33156.0,10176.0,43332
+2018,Wisconsin,Public In-State,2-year,4337.0,0.0,4337
+2018,Wisconsin,Public In-State,4-year,8475.0,8069.0,16544
+2018,Wisconsin,Public Out-of-State,2-year,6257.0,0.0,6257
+2018,Wisconsin,Public Out-of-State,4-year,23500.0,8069.0,31569
+2018,Wyoming,Public In-State,2-year,3142.0,0.0,3142
+2018,Wyoming,Public In-State,4-year,4443.0,10043.0,14486
+2018,Wyoming,Public Out-of-State,2-year,7678.0,0.0,7678
+2018,Wyoming,Public Out-of-State,4-year,13731.0,10043.0,23774
+2019,Alabama,Private,4-year,16119.0,10076.0,26195
+2019,Alabama,Public In-State,2-year,4770.0,0.0,4770
+2019,Alabama,Public In-State,4-year,10138.0,9845.0,19983
+2019,Alabama,Public Out-of-State,2-year,9612.0,0.0,9612
+2019,Alabama,Public Out-of-State,4-year,25782.0,9845.0,35627
+2019,Alaska,Private,4-year,19315.0,7473.0,26788
+2019,Alaska,Public In-State,4-year,8396.0,11167.0,19563
+2019,Alaska,Public Out-of-State,4-year,24454.0,11167.0,35621
+2019,Arizona,Private,4-year,12711.0,9708.0,22419
+2019,Arizona,Public In-State,2-year,2161.0,0.0,2161
+2019,Arizona,Public In-State,4-year,10666.0,12439.0,23105
+2019,Arizona,Public Out-of-State,2-year,8516.0,0.0,8516
+2019,Arizona,Public Out-of-State,4-year,26383.0,12439.0,38822
+2019,Arkansas,Private,4-year,23179.0,8385.0,31564
+2019,Arkansas,Public In-State,2-year,3291.0,0.0,3291
+2019,Arkansas,Public In-State,4-year,8391.0,9586.0,17977
+2019,Arkansas,Public Out-of-State,2-year,4698.0,0.0,4698
+2019,Arkansas,Public Out-of-State,4-year,20825.0,9586.0,30411
+2019,California,Private,4-year,35524.0,14336.0,49860
+2019,California,Public In-State,2-year,1271.0,0.0,1271
+2019,California,Public In-State,4-year,8118.0,14546.0,22664
+2019,California,Public Out-of-State,2-year,7849.0,0.0,7849
+2019,California,Public Out-of-State,4-year,31423.0,14546.0,45969
+2019,Colorado,Private,4-year,23560.0,12725.0,36285
+2019,Colorado,Public In-State,2-year,3655.0,0.0,3655
+2019,Colorado,Public In-State,4-year,9394.0,12472.0,21866
+2019,Colorado,Public Out-of-State,2-year,7967.0,0.0,7967
+2019,Colorado,Public Out-of-State,4-year,30140.0,12472.0,42612
+2019,Connecticut,Private,4-year,41807.0,14742.0,56549
+2019,Connecticut,Public In-State,2-year,4434.0,0.0,4434
+2019,Connecticut,Public In-State,4-year,12959.0,13244.0,26203
+2019,Connecticut,Public Out-of-State,2-year,13202.0,0.0,13202
+2019,Connecticut,Public Out-of-State,4-year,33709.0,13244.0,46953
+2019,Delaware,Private,4-year,14758.0,11952.0,26710
+2019,Delaware,Public In-State,4-year,10607.0,12839.0,23446
+2019,Delaware,Public Out-of-State,4-year,30405.0,12839.0,43244
+2019,District of Columbia,Private,4-year,43143.0,16090.0,59233
+2019,District of Columbia,Public In-State,4-year,5888.0,0.0,5888
+2019,District of Columbia,Public Out-of-State,4-year,12416.0,0.0,12416
+2019,Florida,Private,4-year,26317.0,12121.0,38438
+2019,Florida,Public In-State,2-year,2506.0,0.0,2506
+2019,Florida,Public In-State,4-year,4443.0,10616.0,15059
+2019,Florida,Public Out-of-State,2-year,9111.0,0.0,9111
+2019,Florida,Public Out-of-State,4-year,18456.0,10616.0,29072
+2019,Georgia,Private,4-year,28839.0,12681.0,41520
+2019,Georgia,Public In-State,2-year,2916.0,0.0,2916
+2019,Georgia,Public In-State,4-year,7319.0,10683.0,18002
+2019,Georgia,Public Out-of-State,2-year,8038.0,0.0,8038
+2019,Georgia,Public Out-of-State,4-year,22751.0,10683.0,33434
+2019,Hawaii,Private,4-year,17098.0,12683.0,29781
+2019,Hawaii,Public In-State,2-year,3140.0,0.0,3140
+2019,Hawaii,Public In-State,4-year,9952.0,11914.0,21866
+2019,Hawaii,Public Out-of-State,2-year,8277.0,0.0,8277
+2019,Hawaii,Public Out-of-State,4-year,31581.0,11914.0,43495
+2019,Idaho,Private,4-year,6139.0,7019.0,13158
+2019,Idaho,Public In-State,2-year,3345.0,0.0,3345
+2019,Idaho,Public In-State,4-year,7586.0,8549.0,16135
+2019,Idaho,Public Out-of-State,2-year,7971.0,0.0,7971
+2019,Idaho,Public Out-of-State,4-year,23850.0,8549.0,32399
+2019,Illinois,Private,4-year,33454.0,13098.0,46552
+2019,Illinois,Public In-State,2-year,3966.0,0.0,3966
+2019,Illinois,Public In-State,4-year,14259.0,11209.0,25468
+2019,Illinois,Public Out-of-State,2-year,11480.0,0.0,11480
+2019,Illinois,Public Out-of-State,4-year,28522.0,11209.0,39731
+2019,Indiana,Private,4-year,33402.0,11980.0,45382
+2019,Indiana,Public In-State,2-year,4368.0,0.0,4368
+2019,Indiana,Public In-State,4-year,9225.0,10530.0,19755
+2019,Indiana,Public Out-of-State,2-year,8402.0,0.0,8402
+2019,Indiana,Public Out-of-State,4-year,29092.0,10530.0,39622
+2019,Iowa,Private,4-year,33821.0,9543.0,43364
+2019,Iowa,Public In-State,2-year,5137.0,0.0,5137
+2019,Iowa,Public In-State,4-year,9966.0,10156.0,20122
+2019,Iowa,Public Out-of-State,2-year,6449.0,0.0,6449
+2019,Iowa,Public Out-of-State,4-year,24521.0,10156.0,34677
+2019,Kansas,Private,4-year,22571.0,9130.0,31701
+2019,Kansas,Public In-State,2-year,3435.0,0.0,3435
+2019,Kansas,Public In-State,4-year,8941.0,9678.0,18619
+2019,Kansas,Public Out-of-State,2-year,4491.0,0.0,4491
+2019,Kansas,Public Out-of-State,4-year,23302.0,9678.0,32980
+2019,Kentucky,Private,4-year,27648.0,9433.0,37081
+2019,Kentucky,Public In-State,2-year,4274.0,0.0,4274
+2019,Kentucky,Public In-State,4-year,10674.0,10639.0,21313
+2019,Kentucky,Public Out-of-State,2-year,14418.0,0.0,14418
+2019,Kentucky,Public Out-of-State,4-year,25430.0,10639.0,36069
+2019,Louisiana,Private,4-year,37830.0,13195.0,51025
+2019,Louisiana,Public In-State,2-year,4143.0,0.0,4143
+2019,Louisiana,Public In-State,4-year,9358.0,9847.0,19205
+2019,Louisiana,Public Out-of-State,2-year,8034.0,0.0,8034
+2019,Louisiana,Public Out-of-State,4-year,22208.0,9847.0,32055
+2019,Maine,Private,4-year,38972.0,13555.0,52527
+2019,Maine,Public In-State,2-year,3753.0,0.0,3753
+2019,Maine,Public In-State,4-year,9930.0,10265.0,20195
+2019,Maine,Public Out-of-State,2-year,6614.0,0.0,6614
+2019,Maine,Public Out-of-State,4-year,27735.0,10265.0,38000
+2019,Maryland,Private,4-year,43141.0,14081.0,57222
+2019,Maryland,Public In-State,2-year,4225.0,0.0,4225
+2019,Maryland,Public In-State,4-year,9521.0,12374.0,21895
+2019,Maryland,Public Out-of-State,2-year,9990.0,0.0,9990
+2019,Maryland,Public Out-of-State,4-year,26883.0,12374.0,39257
+2019,Massachusetts,Private,4-year,46016.0,15732.0,61748
+2019,Massachusetts,Public In-State,2-year,5192.0,0.0,5192
+2019,Massachusetts,Public In-State,4-year,13286.0,13501.0,26787
+2019,Massachusetts,Public Out-of-State,2-year,10606.0,0.0,10606
+2019,Massachusetts,Public Out-of-State,4-year,30966.0,13501.0,44467
+2019,Michigan,Private,4-year,27936.0,10139.0,38075
+2019,Michigan,Public In-State,2-year,3582.0,0.0,3582
+2019,Michigan,Public In-State,4-year,12888.0,10488.0,23376
+2019,Michigan,Public Out-of-State,2-year,6372.0,0.0,6372
+2019,Michigan,Public Out-of-State,4-year,35844.0,10488.0,46332
+2019,Minnesota,Private,4-year,33212.0,10465.0,43677
+2019,Minnesota,Public In-State,2-year,5389.0,0.0,5389
+2019,Minnesota,Public In-State,4-year,11381.0,9479.0,20860
+2019,Minnesota,Public Out-of-State,2-year,5947.0,0.0,5947
+2019,Minnesota,Public Out-of-State,4-year,22780.0,9479.0,32259
+2019,Mississippi,Private,4-year,17953.0,8399.0,26352
+2019,Mississippi,Public In-State,2-year,3262.0,0.0,3262
+2019,Mississippi,Public In-State,4-year,8340.0,10051.0,18391
+2019,Mississippi,Public Out-of-State,2-year,5709.0,0.0,5709
+2019,Mississippi,Public Out-of-State,4-year,19942.0,10051.0,29993
+2019,Missouri,Private,4-year,25417.0,10386.0,35803
+2019,Missouri,Public In-State,2-year,3358.0,0.0,3358
+2019,Missouri,Public In-State,4-year,8554.0,9567.0,18121
+2019,Missouri,Public Out-of-State,2-year,6558.0,0.0,6558
+2019,Missouri,Public Out-of-State,4-year,19914.0,9567.0,29481
+2019,Montana,Private,4-year,25918.0,9070.0,34988
+2019,Montana,Public In-State,2-year,3756.0,0.0,3756
+2019,Montana,Public In-State,4-year,6972.0,9632.0,16604
+2019,Montana,Public Out-of-State,2-year,8394.0,0.0,8394
+2019,Montana,Public Out-of-State,4-year,24481.0,9632.0,34113
+2019,Nebraska,Private,4-year,25075.0,9551.0,34626
+2019,Nebraska,Public In-State,2-year,3174.0,0.0,3174
+2019,Nebraska,Public In-State,4-year,8467.0,11084.0,19551
+2019,Nebraska,Public Out-of-State,2-year,3985.0,0.0,3985
+2019,Nebraska,Public Out-of-State,4-year,21516.0,11084.0,32600
+2019,Nevada,Private,4-year,24423.0,13707.0,38130
+2019,Nevada,Public In-State,4-year,5845.0,11659.0,17504
+2019,Nevada,Public Out-of-State,4-year,21125.0,11659.0,32784
+2019,New Hampshire,Private,4-year,33364.0,13588.0,46952
+2019,New Hampshire,Public In-State,2-year,7599.0,0.0,7599
+2019,New Hampshire,Public In-State,4-year,16329.0,11816.0,28145
+2019,New Hampshire,Public Out-of-State,2-year,16429.0,0.0,16429
+2019,New Hampshire,Public Out-of-State,4-year,29447.0,11816.0,41263
+2019,New Jersey,Private,4-year,37329.0,13716.0,51045
+2019,New Jersey,Public In-State,2-year,4715.0,0.0,4715
+2019,New Jersey,Public In-State,4-year,13963.0,13518.0,27481
+2019,New Jersey,Public Out-of-State,2-year,8257.0,0.0,8257
+2019,New Jersey,Public Out-of-State,4-year,28669.0,13518.0,42187
+2019,New Mexico,Private,4-year,30137.0,10069.0,40206
+2019,New Mexico,Public In-State,2-year,1705.0,0.0,1705
+2019,New Mexico,Public In-State,4-year,6902.0,9354.0,16256
+2019,New Mexico,Public Out-of-State,2-year,6698.0,0.0,6698
+2019,New Mexico,Public Out-of-State,4-year,18350.0,9354.0,27704
+2019,New York,Private,4-year,40527.0,15214.0,55741
+2019,New York,Public In-State,2-year,5367.0,0.0,5367
+2019,New York,Public In-State,4-year,8184.0,14869.0,23053
+2019,New York,Public Out-of-State,2-year,9197.0,0.0,9197
+2019,New York,Public Out-of-State,4-year,22083.0,14869.0,36952
+2019,North Carolina,Private,4-year,33990.0,12278.0,46268
+2019,North Carolina,Public In-State,2-year,2504.0,0.0,2504
+2019,North Carolina,Public In-State,4-year,7174.0,10129.0,17303
+2019,North Carolina,Public Out-of-State,2-year,8655.0,0.0,8655
+2019,North Carolina,Public Out-of-State,4-year,22968.0,10129.0,33097
+2019,North Dakota,Private,4-year,15206.0,7650.0,22856
+2019,North Dakota,Public In-State,2-year,4895.0,0.0,4895
+2019,North Dakota,Public In-State,4-year,8091.0,8577.0,16668
+2019,North Dakota,Public Out-of-State,2-year,9293.0,0.0,9293
+2019,North Dakota,Public Out-of-State,4-year,15565.0,8577.0,24142
+2019,Ohio,Private,4-year,32597.0,11438.0,44035
+2019,Ohio,Public In-State,2-year,4082.0,0.0,4082
+2019,Ohio,Public In-State,4-year,10068.0,12085.0,22153
+2019,Ohio,Public Out-of-State,2-year,7300.0,0.0,7300
+2019,Ohio,Public Out-of-State,4-year,24454.0,12085.0,36539
+2019,Oklahoma,Private,4-year,27694.0,9754.0,37448
+2019,Oklahoma,Public In-State,2-year,4112.0,0.0,4112
+2019,Oklahoma,Public In-State,4-year,7866.0,8866.0,16732
+2019,Oklahoma,Public Out-of-State,2-year,9393.0,0.0,9393
+2019,Oklahoma,Public Out-of-State,4-year,21526.0,8866.0,30392
+2019,Oregon,Private,4-year,40597.0,12439.0,53036
+2019,Oregon,Public In-State,2-year,4709.0,0.0,4709
+2019,Oregon,Public In-State,4-year,10286.0,12299.0,22585
+2019,Oregon,Public Out-of-State,2-year,8779.0,0.0,8779
+2019,Oregon,Public Out-of-State,4-year,30929.0,12299.0,43228
+2019,Pennsylvania,Private,4-year,41703.0,13545.0,55248
+2019,Pennsylvania,Public In-State,2-year,5284.0,0.0,5284
+2019,Pennsylvania,Public In-State,4-year,14812.0,11475.0,26287
+2019,Pennsylvania,Public Out-of-State,2-year,14111.0,0.0,14111
+2019,Pennsylvania,Public Out-of-State,4-year,28527.0,11475.0,40002
+2019,Rhode Island,Private,4-year,42108.0,15068.0,57176
+2019,Rhode Island,Public In-State,2-year,4564.0,0.0,4564
+2019,Rhode Island,Public In-State,4-year,12576.0,12250.0,24826
+2019,Rhode Island,Public Out-of-State,2-year,12156.0,0.0,12156
+2019,Rhode Island,Public Out-of-State,4-year,29998.0,12250.0,42248
+2019,South Carolina,Private,4-year,25621.0,9553.0,35174
+2019,South Carolina,Public In-State,2-year,4728.0,0.0,4728
+2019,South Carolina,Public In-State,4-year,13013.0,10100.0,23113
+2019,South Carolina,Public Out-of-State,2-year,9874.0,0.0,9874
+2019,South Carolina,Public Out-of-State,4-year,32174.0,10100.0,42274
+2019,South Dakota,Private,4-year,23252.0,8107.0,31359
+2019,South Dakota,Public In-State,2-year,6170.0,0.0,6170
+2019,South Dakota,Public In-State,4-year,8772.0,8076.0,16848
+2019,South Dakota,Public Out-of-State,2-year,5839.0,0.0,5839
+2019,South Dakota,Public Out-of-State,4-year,12465.0,8076.0,20541
+2019,Tennessee,Private,4-year,28080.0,10491.0,38571
+2019,Tennessee,Public In-State,2-year,4287.0,0.0,4287
+2019,Tennessee,Public In-State,4-year,9789.0,9924.0,19713
+2019,Tennessee,Public Out-of-State,2-year,16582.0,0.0,16582
+2019,Tennessee,Public Out-of-State,4-year,26068.0,9924.0,35992
+2019,Texas,Private,4-year,34476.0,11792.0,46268
+2019,Texas,Public In-State,2-year,2259.0,0.0,2259
+2019,Texas,Public In-State,4-year,8678.0,10101.0,18779
+2019,Texas,Public Out-of-State,2-year,5920.0,0.0,5920
+2019,Texas,Public Out-of-State,4-year,25031.0,10101.0,35132
+2019,Utah,Private,4-year,7852.0,7952.0,15804
+2019,Utah,Public In-State,2-year,3843.0,0.0,3843
+2019,Utah,Public In-State,4-year,6731.0,7658.0,14389
+2019,Utah,Public Out-of-State,2-year,12206.0,0.0,12206
+2019,Utah,Public Out-of-State,4-year,21557.0,7658.0,29215
+2019,Vermont,Private,4-year,44068.0,14069.0,58137
+2019,Vermont,Public In-State,2-year,7120.0,0.0,7120
+2019,Vermont,Public In-State,4-year,16604.0,12077.0,28681
+2019,Vermont,Public Out-of-State,2-year,14090.0,0.0,14090
+2019,Vermont,Public Out-of-State,4-year,39947.0,12077.0,52024
+2019,Virginia,Private,4-year,23380.0,11089.0,34469
+2019,Virginia,Public In-State,2-year,5241.0,0.0,5241
+2019,Virginia,Public In-State,4-year,13413.0,11080.0,24493
+2019,Virginia,Public Out-of-State,2-year,11455.0,0.0,11455
+2019,Virginia,Public Out-of-State,4-year,34890.0,11080.0,45970
+2019,Washington,Private,4-year,38754.0,12120.0,50874
+2019,Washington,Public In-State,2-year,4169.0,0.0,4169
+2019,Washington,Public In-State,4-year,7036.0,12236.0,19272
+2019,Washington,Public Out-of-State,2-year,5691.0,0.0,5691
+2019,Washington,Public Out-of-State,4-year,29228.0,12236.0,41464
+2019,West Virginia,Private,4-year,12513.0,9379.0,21892
+2019,West Virginia,Public In-State,2-year,4276.0,0.0,4276
+2019,West Virginia,Public In-State,4-year,8016.0,10446.0,18462
+2019,West Virginia,Public Out-of-State,2-year,9834.0,0.0,9834
+2019,West Virginia,Public Out-of-State,4-year,21996.0,10446.0,32442
+2019,Wisconsin,Private,4-year,34424.0,10845.0,45269
+2019,Wisconsin,Public In-State,2-year,4411.0,0.0,4411
+2019,Wisconsin,Public In-State,4-year,8697.0,8475.0,17172
+2019,Wisconsin,Public Out-of-State,2-year,6408.0,0.0,6408
+2019,Wisconsin,Public Out-of-State,4-year,25063.0,8475.0,33538
+2019,Wyoming,Public In-State,2-year,3219.0,0.0,3219
+2019,Wyoming,Public In-State,4-year,4596.0,10043.0,14639
+2019,Wyoming,Public Out-of-State,2-year,7752.0,0.0,7752
+2019,Wyoming,Public Out-of-State,4-year,14268.0,10043.0,24311
+2020,Alabama,Private,4-year,16743.0,10344.0,27087
+2020,Alabama,Public In-State,2-year,4854.0,0.0,4854
+2020,Alabama,Public In-State,4-year,10323.0,10175.0,20498
+2020,Alabama,Public Out-of-State,2-year,9707.0,0.0,9707
+2020,Alabama,Public Out-of-State,4-year,26517.0,10175.0,36692
+2020,Alaska,Private,4-year,19682.0,8092.0,27774
+2020,Alaska,Public In-State,4-year,8297.0,11322.0,19619
+2020,Alaska,Public Out-of-State,4-year,26767.0,11322.0,38089
+2020,Arizona,Private,4-year,12895.0,9757.0,22652
+2020,Arizona,Public In-State,2-year,2151.0,0.0,2151
+2020,Arizona,Public In-State,4-year,11072.0,12944.0,24016
+2020,Arizona,Public Out-of-State,2-year,7642.0,0.0,7642
+2020,Arizona,Public Out-of-State,4-year,27417.0,12944.0,40361
+2020,Arkansas,Private,4-year,23875.0,8513.0,32388
+2020,Arkansas,Public In-State,2-year,3398.0,0.0,3398
+2020,Arkansas,Public In-State,4-year,8689.0,9535.0,18224
+2020,Arkansas,Public Out-of-State,2-year,4688.0,0.0,4688
+2020,Arkansas,Public Out-of-State,4-year,21460.0,9535.0,30995
+2020,California,Private,4-year,37009.0,14741.0,51750
+2020,California,Public In-State,2-year,1270.0,0.0,1270
+2020,California,Public In-State,4-year,8192.0,14845.0,23037
+2020,California,Public Out-of-State,2-year,8194.0,0.0,8194
+2020,California,Public Out-of-State,4-year,32177.0,14845.0,47022
+2020,Colorado,Private,4-year,23791.0,13229.0,37020
+2020,Colorado,Public In-State,2-year,3355.0,0.0,3355
+2020,Colorado,Public In-State,4-year,9144.0,13041.0,22185
+2020,Colorado,Public Out-of-State,2-year,7103.0,0.0,7103
+2020,Colorado,Public Out-of-State,4-year,30773.0,13041.0,43814
+2020,Connecticut,Private,4-year,43242.0,15332.0,58574
+2020,Connecticut,Public In-State,2-year,4516.0,0.0,4516
+2020,Connecticut,Public In-State,4-year,13886.0,13677.0,27563
+2020,Connecticut,Public Out-of-State,2-year,13490.0,0.0,13490
+2020,Connecticut,Public Out-of-State,4-year,35197.0,13677.0,48874
+2020,Delaware,Private,4-year,14858.0,12548.0,27406
+2020,Delaware,Public In-State,4-year,11091.0,13267.0,24358
+2020,Delaware,Public Out-of-State,4-year,31582.0,13267.0,44849
+2020,District of Columbia,Private,4-year,44134.0,16697.0,60831
+2020,District of Columbia,Public In-State,4-year,6020.0,0.0,6020
+2020,District of Columbia,Public Out-of-State,4-year,12704.0,0.0,12704
+2020,Florida,Private,4-year,27381.0,12469.0,39850
+2020,Florida,Public In-State,2-year,2506.0,0.0,2506
+2020,Florida,Public In-State,4-year,4463.0,10774.0,15237
+2020,Florida,Public Out-of-State,2-year,9111.0,0.0,9111
+2020,Florida,Public Out-of-State,4-year,18514.0,10774.0,29288
+2020,Georgia,Private,4-year,29752.0,13050.0,42802
+2020,Georgia,Public In-State,2-year,3156.0,0.0,3156
+2020,Georgia,Public In-State,4-year,7457.0,11096.0,18553
+2020,Georgia,Public Out-of-State,2-year,8398.0,0.0,8398
+2020,Georgia,Public Out-of-State,4-year,23167.0,11096.0,34263
+2020,Hawaii,Private,4-year,17977.0,14148.0,32125
+2020,Hawaii,Public In-State,2-year,3225.0,0.0,3225
+2020,Hawaii,Public In-State,4-year,10109.0,11745.0,21854
+2020,Hawaii,Public Out-of-State,2-year,8391.0,0.0,8391
+2020,Hawaii,Public Out-of-State,4-year,31774.0,11745.0,43519
+2020,Idaho,Private,4-year,6429.0,7951.0,14380
+2020,Idaho,Public In-State,2-year,3335.0,0.0,3335
+2020,Idaho,Public In-State,4-year,7518.0,8820.0,16338
+2020,Idaho,Public Out-of-State,2-year,8295.0,0.0,8295
+2020,Idaho,Public Out-of-State,4-year,24845.0,8820.0,33665
+2020,Illinois,Private,4-year,35570.0,13506.0,49076
+2020,Illinois,Public In-State,2-year,4035.0,0.0,4035
+2020,Illinois,Public In-State,4-year,14455.0,11351.0,25806
+2020,Illinois,Public Out-of-State,2-year,11450.0,0.0,11450
+2020,Illinois,Public Out-of-State,4-year,29515.0,11351.0,40866
+2020,Indiana,Private,4-year,34263.0,12241.0,46504
+2020,Indiana,Public In-State,2-year,4500.0,0.0,4500
+2020,Indiana,Public In-State,4-year,9268.0,10718.0,19986
+2020,Indiana,Public Out-of-State,2-year,8661.0,0.0,8661
+2020,Indiana,Public Out-of-State,4-year,29533.0,10718.0,40251
+2020,Iowa,Private,4-year,35019.0,9831.0,44850
+2020,Iowa,Public In-State,2-year,5306.0,0.0,5306
+2020,Iowa,Public In-State,4-year,9373.0,10436.0,19809
+2020,Iowa,Public Out-of-State,2-year,6664.0,0.0,6664
+2020,Iowa,Public Out-of-State,4-year,27346.0,10436.0,37782
+2020,Kansas,Private,4-year,24179.0,9632.0,33811
+2020,Kansas,Public In-State,2-year,3542.0,0.0,3542
+2020,Kansas,Public In-State,4-year,9088.0,10013.0,19101
+2020,Kansas,Public Out-of-State,2-year,4695.0,0.0,4695
+2020,Kansas,Public Out-of-State,4-year,23745.0,10013.0,33758
+2020,Kentucky,Private,4-year,26928.0,9354.0,36282
+2020,Kentucky,Public In-State,2-year,4395.0,0.0,4395
+2020,Kentucky,Public In-State,4-year,10888.0,10911.0,21799
+2020,Kentucky,Public Out-of-State,2-year,14826.0,0.0,14826
+2020,Kentucky,Public Out-of-State,4-year,26048.0,10911.0,36959
+2020,Louisiana,Private,4-year,39482.0,13544.0,53026
+2020,Louisiana,Public In-State,2-year,4166.0,0.0,4166
+2020,Louisiana,Public In-State,4-year,9571.0,9927.0,19498
+2020,Louisiana,Public Out-of-State,2-year,8282.0,0.0,8282
+2020,Louisiana,Public Out-of-State,4-year,22128.0,9927.0,32055
+2020,Maine,Private,4-year,40353.0,14022.0,54375
+2020,Maine,Public In-State,2-year,3778.0,0.0,3778
+2020,Maine,Public In-State,4-year,10103.0,10355.0,20458
+2020,Maine,Public Out-of-State,2-year,6642.0,0.0,6642
+2020,Maine,Public Out-of-State,4-year,28523.0,10355.0,38878
+2020,Maryland,Private,4-year,44048.0,14689.0,58737
+2020,Maryland,Public In-State,2-year,4330.0,0.0,4330
+2020,Maryland,Public In-State,4-year,9714.0,12790.0,22504
+2020,Maryland,Public Out-of-State,2-year,10308.0,0.0,10308
+2020,Maryland,Public Out-of-State,4-year,27984.0,12790.0,40774
+2020,Massachusetts,Private,4-year,47980.0,16217.0,64197
+2020,Massachusetts,Public In-State,2-year,5336.0,0.0,5336
+2020,Massachusetts,Public In-State,4-year,13729.0,13889.0,27618
+2020,Massachusetts,Public Out-of-State,2-year,10690.0,0.0,10690
+2020,Massachusetts,Public Out-of-State,4-year,31894.0,13889.0,45783
+2020,Michigan,Private,4-year,29405.0,10381.0,39786
+2020,Michigan,Public In-State,2-year,3703.0,0.0,3703
+2020,Michigan,Public In-State,4-year,13315.0,10772.0,24087
+2020,Michigan,Public Out-of-State,2-year,6564.0,0.0,6564
+2020,Michigan,Public Out-of-State,4-year,36832.0,10772.0,47604
+2020,Minnesota,Private,4-year,34321.0,10877.0,45198
+2020,Minnesota,Public In-State,2-year,5566.0,0.0,5566
+2020,Minnesota,Public In-State,4-year,11748.0,9863.0,21611
+2020,Minnesota,Public Out-of-State,2-year,6151.0,0.0,6151
+2020,Minnesota,Public Out-of-State,4-year,24442.0,9863.0,34305
+2020,Mississippi,Private,4-year,18612.0,8607.0,27219
+2020,Mississippi,Public In-State,2-year,3432.0,0.0,3432
+2020,Mississippi,Public In-State,4-year,8604.0,10476.0,19080
+2020,Mississippi,Public Out-of-State,2-year,5835.0,0.0,5835
+2020,Mississippi,Public Out-of-State,4-year,19402.0,10476.0,29878
+2020,Missouri,Private,4-year,26377.0,10705.0,37082
+2020,Missouri,Public In-State,2-year,3545.0,0.0,3545
+2020,Missouri,Public In-State,4-year,8992.0,9742.0,18734
+2020,Missouri,Public Out-of-State,2-year,6797.0,0.0,6797
+2020,Missouri,Public Out-of-State,4-year,20877.0,9742.0,30619
+2020,Montana,Private,4-year,31724.0,9817.0,41541
+2020,Montana,Public In-State,2-year,3871.0,0.0,3871
+2020,Montana,Public In-State,4-year,6967.0,9765.0,16732
+2020,Montana,Public Out-of-State,2-year,8596.0,0.0,8596
+2020,Montana,Public Out-of-State,4-year,25239.0,9765.0,35004
+2020,Nebraska,Private,4-year,25313.0,9797.0,35110
+2020,Nebraska,Public In-State,2-year,3103.0,0.0,3103
+2020,Nebraska,Public In-State,4-year,8582.0,10938.0,19520
+2020,Nebraska,Public Out-of-State,2-year,3969.0,0.0,3969
+2020,Nebraska,Public Out-of-State,4-year,22152.0,10938.0,33090
+2020,Nevada,Private,4-year,26284.0,14187.0,40471
+2020,Nevada,Public In-State,4-year,6023.0,11964.0,17987
+2020,Nevada,Public Out-of-State,4-year,21678.0,11964.0,33642
+2020,New Hampshire,Private,4-year,33446.0,14070.0,47516
+2020,New Hampshire,Public In-State,2-year,7130.0,0.0,7130
+2020,New Hampshire,Public In-State,4-year,16679.0,12055.0,28734
+2020,New Hampshire,Public Out-of-State,2-year,15335.0,0.0,15335
+2020,New Hampshire,Public Out-of-State,4-year,30594.0,12055.0,42649
+2020,New Jersey,Private,4-year,38652.0,13980.0,52632
+2020,New Jersey,Public In-State,2-year,4779.0,0.0,4779
+2020,New Jersey,Public In-State,4-year,14360.0,14012.0,28372
+2020,New Jersey,Public Out-of-State,2-year,8092.0,0.0,8092
+2020,New Jersey,Public Out-of-State,4-year,29435.0,14012.0,43447
+2020,New Mexico,Private,4-year,25363.0,11599.0,36962
+2020,New Mexico,Public In-State,2-year,1724.0,0.0,1724
+2020,New Mexico,Public In-State,4-year,7152.0,9041.0,16193
+2020,New Mexico,Public Out-of-State,2-year,6624.0,0.0,6624
+2020,New Mexico,Public Out-of-State,4-year,19181.0,9041.0,28222
+2020,New York,Private,4-year,41404.0,15554.0,56958
+2020,New York,Public In-State,2-year,5476.0,0.0,5476
+2020,New York,Public In-State,4-year,8467.0,15408.0,23875
+2020,New York,Public Out-of-State,2-year,9228.0,0.0,9228
+2020,New York,Public Out-of-State,4-year,22669.0,15408.0,38077
+2020,North Carolina,Private,4-year,35379.0,12628.0,48007
+2020,North Carolina,Public In-State,2-year,2494.0,0.0,2494
+2020,North Carolina,Public In-State,4-year,7228.0,10342.0,17570
+2020,North Carolina,Public Out-of-State,2-year,8658.0,0.0,8658
+2020,North Carolina,Public Out-of-State,4-year,23357.0,10342.0,33699
+2020,North Dakota,Private,4-year,15732.0,7971.0,23703
+2020,North Dakota,Public In-State,2-year,5073.0,0.0,5073
+2020,North Dakota,Public In-State,4-year,8628.0,8821.0,17449
+2020,North Dakota,Public Out-of-State,2-year,6031.0,0.0,6031
+2020,North Dakota,Public Out-of-State,4-year,13936.0,8821.0,22757
+2020,Ohio,Private,4-year,34008.0,11861.0,45869
+2020,Ohio,Public In-State,2-year,4330.0,0.0,4330
+2020,Ohio,Public In-State,4-year,9902.0,12486.0,22388
+2020,Ohio,Public Out-of-State,2-year,7528.0,0.0,7528
+2020,Ohio,Public Out-of-State,4-year,24830.0,12486.0,37316
+2020,Oklahoma,Private,4-year,29429.0,9846.0,39275
+2020,Oklahoma,Public In-State,2-year,4150.0,0.0,4150
+2020,Oklahoma,Public In-State,4-year,8009.0,8950.0,16959
+2020,Oklahoma,Public Out-of-State,2-year,9484.0,0.0,9484
+2020,Oklahoma,Public Out-of-State,4-year,21695.0,8950.0,30645
+2020,Oregon,Private,4-year,42202.0,12931.0,55133
+2020,Oregon,Public In-State,2-year,4881.0,0.0,4881
+2020,Oregon,Public In-State,4-year,10813.0,12769.0,23582
+2020,Oregon,Public Out-of-State,2-year,8640.0,0.0,8640
+2020,Oregon,Public Out-of-State,4-year,32068.0,12769.0,44837
+2020,Pennsylvania,Private,4-year,42812.0,13945.0,56757
+2020,Pennsylvania,Public In-State,2-year,5348.0,0.0,5348
+2020,Pennsylvania,Public In-State,4-year,15565.0,11839.0,27404
+2020,Pennsylvania,Public Out-of-State,2-year,13480.0,0.0,13480
+2020,Pennsylvania,Public Out-of-State,4-year,30222.0,11839.0,42061
+2020,Rhode Island,Private,4-year,43919.0,15402.0,59321
+2020,Rhode Island,Public In-State,2-year,4700.0,0.0,4700
+2020,Rhode Island,Public In-State,4-year,13105.0,12487.0,25592
+2020,Rhode Island,Public Out-of-State,2-year,12544.0,0.0,12544
+2020,Rhode Island,Public Out-of-State,4-year,30871.0,12487.0,43358
+2020,South Carolina,Private,4-year,26270.0,9965.0,36235
+2020,South Carolina,Public In-State,2-year,4916.0,0.0,4916
+2020,South Carolina,Public In-State,4-year,12497.0,10293.0,22790
+2020,South Carolina,Public Out-of-State,2-year,10206.0,0.0,10206
+2020,South Carolina,Public Out-of-State,4-year,32853.0,10293.0,43146
+2020,South Dakota,Private,4-year,25353.0,8253.0,33606
+2020,South Dakota,Public In-State,2-year,6469.0,0.0,6469
+2020,South Dakota,Public In-State,4-year,8978.0,8320.0,17298
+2020,South Dakota,Public Out-of-State,2-year,6043.0,0.0,6043
+2020,South Dakota,Public Out-of-State,4-year,12866.0,8320.0,21186
+2020,Tennessee,Private,4-year,29200.0,10838.0,40038
+2020,Tennessee,Public In-State,2-year,4379.0,0.0,4379
+2020,Tennessee,Public In-State,4-year,10164.0,10196.0,20360
+2020,Tennessee,Public Out-of-State,2-year,16937.0,0.0,16937
+2020,Tennessee,Public Out-of-State,4-year,24786.0,10196.0,34982
+2020,Texas,Private,4-year,36014.0,12017.0,48031
+2020,Texas,Public In-State,2-year,2380.0,0.0,2380
+2020,Texas,Public In-State,4-year,8598.0,10113.0,18711
+2020,Texas,Public Out-of-State,2-year,6373.0,0.0,6373
+2020,Texas,Public Out-of-State,4-year,24889.0,10113.0,35002
+2020,Utah,Private,4-year,7600.0,8107.0,15707
+2020,Utah,Public In-State,2-year,3929.0,0.0,3929
+2020,Utah,Public In-State,4-year,6700.0,7919.0,14619
+2020,Utah,Public Out-of-State,2-year,12460.0,0.0,12460
+2020,Utah,Public Out-of-State,4-year,21273.0,7919.0,29192
+2020,Vermont,Private,4-year,46445.0,14576.0,61021
+2020,Vermont,Public In-State,2-year,6654.0,0.0,6654
+2020,Vermont,Public In-State,4-year,17083.0,12582.0,29665
+2020,Vermont,Public Out-of-State,2-year,13398.0,0.0,13398
+2020,Vermont,Public Out-of-State,4-year,41057.0,12582.0,53639
+2020,Virginia,Private,4-year,23493.0,11255.0,34748
+2020,Virginia,Public In-State,2-year,5237.0,0.0,5237
+2020,Virginia,Public In-State,4-year,13655.0,11419.0,25074
+2020,Virginia,Public Out-of-State,2-year,11529.0,0.0,11529
+2020,Virginia,Public Out-of-State,4-year,35831.0,11419.0,47250
+2020,Washington,Private,4-year,39791.0,12541.0,52332
+2020,Washington,Public In-State,2-year,4468.0,0.0,4468
+2020,Washington,Public In-State,4-year,7168.0,12678.0,19846
+2020,Washington,Public Out-of-State,2-year,6500.0,0.0,6500
+2020,Washington,Public Out-of-State,4-year,30154.0,12678.0,42832
+2020,West Virginia,Private,4-year,12673.0,9773.0,22446
+2020,West Virginia,Public In-State,2-year,4344.0,0.0,4344
+2020,West Virginia,Public In-State,4-year,8195.0,10839.0,19034
+2020,West Virginia,Public Out-of-State,2-year,9976.0,0.0,9976
+2020,West Virginia,Public Out-of-State,4-year,22242.0,10839.0,33081
+2020,Wisconsin,Private,4-year,35554.0,11244.0,46798
+2020,Wisconsin,Public In-State,2-year,4476.0,0.0,4476
+2020,Wisconsin,Public In-State,4-year,8764.0,9020.0,17784
+2020,Wisconsin,Public Out-of-State,2-year,6499.0,0.0,6499
+2020,Wisconsin,Public Out-of-State,4-year,25522.0,9020.0,34542
+2020,Wyoming,Public In-State,2-year,4136.0,0.0,4136
+2020,Wyoming,Public In-State,4-year,4747.0,10154.0,14901
+2020,Wyoming,Public Out-of-State,2-year,10101.0,0.0,10101
+2020,Wyoming,Public Out-of-State,4-year,14803.0,10154.0,24957
+2021,Alabama,Private,4-year,17354.0,10613.0,27967
+2021,Alabama,Public In-State,2-year,5048.0,0.0,5048
+2021,Alabama,Public In-State,4-year,,10376.0,10376
+2021,Alabama,Public Out-of-State,2-year,10082.0,0.0,10082
+2021,Alabama,Public Out-of-State,4-year,27005.0,10376.0,37381
+2021,Alaska,Private,4-year,19575.0,8787.0,28362
+2021,Alaska,Public In-State,4-year,,13336.0,13336
+2021,Alaska,Public Out-of-State,4-year,25535.0,13336.0,38871
+2021,Arizona,Private,4-year,13108.0,9754.0,22862
+2021,Arizona,Public In-State,2-year,2160.0,0.0,2160
+2021,Arizona,Public In-State,4-year,,13272.0,13272
+2021,Arizona,Public Out-of-State,2-year,6927.0,0.0,6927
+2021,Arizona,Public Out-of-State,4-year,25426.0,13272.0,38698
+2021,Arkansas,Private,4-year,24998.0,8616.0,33614
+2021,Arkansas,Public In-State,2-year,3484.0,0.0,3484
+2021,Arkansas,Public In-State,4-year,,9794.0,9794
+2021,Arkansas,Public Out-of-State,2-year,4845.0,0.0,4845
+2021,Arkansas,Public Out-of-State,4-year,21598.0,9794.0,31392
+2021,California,Private,4-year,38477.0,15203.0,53680
+2021,California,Public In-State,2-year,1285.0,0.0,1285
+2021,California,Public In-State,4-year,,15614.0,15614
+2021,California,Public Out-of-State,2-year,8491.0,0.0,8491
+2021,California,Public Out-of-State,4-year,34398.0,15614.0,50012
+2021,Colorado,Private,4-year,23128.0,13750.0,36878
+2021,Colorado,Public In-State,2-year,3468.0,0.0,3468
+2021,Colorado,Public In-State,4-year,,13019.0,13019
+2021,Colorado,Public Out-of-State,2-year,8889.0,0.0,8889
+2021,Colorado,Public Out-of-State,4-year,30930.0,13019.0,43949
+2021,Connecticut,Private,4-year,43013.0,15694.0,58707
+2021,Connecticut,Public In-State,2-year,4522.0,0.0,4522
+2021,Connecticut,Public In-State,4-year,,13938.0,13938
+2021,Connecticut,Public Out-of-State,2-year,13483.0,0.0,13483
+2021,Connecticut,Public Out-of-State,4-year,36881.0,13938.0,50819
+2021,Delaware,Private,4-year,14501.0,11242.0,25743
+2021,Delaware,Public In-State,4-year,,13518.0,13518
+2021,Delaware,Public Out-of-State,4-year,31809.0,13518.0,45327
+2021,District of Columbia,Private,4-year,44692.0,17220.0,61912
+2021,District of Columbia,Public Out-of-State,4-year,13004.0,0.0,13004
+2021,Florida,Private,4-year,28860.0,12983.0,41843
+2021,Florida,Public In-State,2-year,2506.0,0.0,2506
+2021,Florida,Public In-State,4-year,,11003.0,11003
+2021,Florida,Public Out-of-State,2-year,9111.0,0.0,9111
+2021,Florida,Public Out-of-State,4-year,18322.0,11003.0,29325
+2021,Georgia,Private,4-year,30380.0,13247.0,43627
+2021,Georgia,Public In-State,2-year,3169.0,0.0,3169
+2021,Georgia,Public In-State,4-year,,11186.0,11186
+2021,Georgia,Public Out-of-State,2-year,8535.0,0.0,8535
+2021,Georgia,Public Out-of-State,4-year,23430.0,11186.0,34616
+2021,Hawaii,Private,4-year,19096.0,13852.0,32948
+2021,Hawaii,Public In-State,2-year,3226.0,0.0,3226
+2021,Hawaii,Public In-State,4-year,,11815.0,11815
+2021,Hawaii,Public Out-of-State,2-year,8378.0,0.0,8378
+2021,Hawaii,Public Out-of-State,4-year,32043.0,11815.0,43858
+2021,Idaho,Private,4-year,6452.0,8728.0,15180
+2021,Idaho,Public In-State,2-year,3332.0,0.0,3332
+2021,Idaho,Public In-State,4-year,,9036.0,9036
+2021,Idaho,Public Out-of-State,2-year,8235.0,0.0,8235
+2021,Idaho,Public Out-of-State,4-year,24700.0,9036.0,33736
+2021,Illinois,Private,4-year,35894.0,13889.0,49783
+2021,Illinois,Public In-State,2-year,4180.0,0.0,4180
+2021,Illinois,Public In-State,4-year,,11673.0,11673
+2021,Illinois,Public Out-of-State,2-year,11166.0,0.0,11166
+2021,Illinois,Public Out-of-State,4-year,28660.0,11673.0,40333
+2021,Indiana,Private,4-year,35447.0,12764.0,48211
+2021,Indiana,Public In-State,2-year,4637.0,0.0,4637
+2021,Indiana,Public In-State,4-year,,10915.0,10915
+2021,Indiana,Public Out-of-State,2-year,8927.0,0.0,8927
+2021,Indiana,Public Out-of-State,4-year,28972.0,10915.0,39887
+2021,Iowa,Private,4-year,35224.0,10158.0,45382
+2021,Iowa,Public In-State,2-year,5411.0,0.0,5411
+2021,Iowa,Public In-State,4-year,,10416.0,10416
+2021,Iowa,Public Out-of-State,2-year,6844.0,0.0,6844
+2021,Iowa,Public Out-of-State,4-year,27684.0,10416.0,38100
+2021,Kansas,Private,4-year,25523.0,9816.0,35339
+2021,Kansas,Public In-State,2-year,3648.0,0.0,3648
+2021,Kansas,Public In-State,4-year,,10001.0,10001
+2021,Kansas,Public Out-of-State,2-year,4828.0,0.0,4828
+2021,Kansas,Public Out-of-State,4-year,23945.0,10001.0,33946
+2021,Kentucky,Private,4-year,26996.0,9279.0,36275
+2021,Kentucky,Public In-State,2-year,4517.0,0.0,4517
+2021,Kentucky,Public In-State,4-year,,11342.0,11342
+2021,Kentucky,Public Out-of-State,2-year,15262.0,0.0,15262
+2021,Kentucky,Public Out-of-State,4-year,25049.0,11342.0,36391
+2021,Louisiana,Private,4-year,41393.0,14133.0,55526
+2021,Louisiana,Public In-State,2-year,4219.0,0.0,4219
+2021,Louisiana,Public In-State,4-year,,10389.0,10389
+2021,Louisiana,Public Out-of-State,2-year,6770.0,0.0,6770
+2021,Louisiana,Public Out-of-State,4-year,23333.0,10389.0,33722
+2021,Maine,Private,4-year,40007.0,13948.0,53955
+2021,Maine,Public In-State,2-year,3857.0,0.0,3857
+2021,Maine,Public In-State,4-year,,10300.0,10300
+2021,Maine,Public Out-of-State,2-year,6746.0,0.0,6746
+2021,Maine,Public Out-of-State,4-year,29061.0,10300.0,39361
+2021,Maryland,Private,4-year,44356.0,13778.0,58134
+2021,Maryland,Public In-State,2-year,4369.0,0.0,4369
+2021,Maryland,Public In-State,4-year,,12979.0,12979
+2021,Maryland,Public Out-of-State,2-year,10623.0,0.0,10623
+2021,Maryland,Public Out-of-State,4-year,26376.0,12979.0,39355
+2021,Massachusetts,Private,4-year,49152.0,16631.0,65783
+2021,Massachusetts,Public In-State,2-year,5529.0,0.0,5529
+2021,Massachusetts,Public In-State,4-year,,14378.0,14378
+2021,Massachusetts,Public Out-of-State,2-year,10680.0,0.0,10680
+2021,Massachusetts,Public Out-of-State,4-year,32019.0,14378.0,46397
+2021,Michigan,Private,4-year,31055.0,10735.0,41790
+2021,Michigan,Public In-State,2-year,3756.0,0.0,3756
+2021,Michigan,Public In-State,4-year,,11061.0,11061
+2021,Michigan,Public Out-of-State,2-year,7707.0,0.0,7707
+2021,Michigan,Public Out-of-State,4-year,39427.0,11061.0,50488
+2021,Minnesota,Private,4-year,34608.0,11167.0,45775
+2021,Minnesota,Public In-State,2-year,5545.0,0.0,5545
+2021,Minnesota,Public In-State,4-year,,10021.0,10021
+2021,Minnesota,Public Out-of-State,2-year,6012.0,0.0,6012
+2021,Minnesota,Public Out-of-State,4-year,24620.0,10021.0,34641
+2021,Mississippi,Private,4-year,19222.0,9041.0,28263
+2021,Mississippi,Public In-State,2-year,3491.0,0.0,3491
+2021,Mississippi,Public In-State,4-year,,10579.0,10579
+2021,Mississippi,Public Out-of-State,2-year,5820.0,0.0,5820
+2021,Mississippi,Public Out-of-State,4-year,20160.0,10579.0,30739
+2021,Missouri,Private,4-year,27723.0,11075.0,38798
+2021,Missouri,Public In-State,2-year,3676.0,0.0,3676
+2021,Missouri,Public In-State,4-year,,10084.0,10084
+2021,Missouri,Public Out-of-State,2-year,6783.0,0.0,6783
+2021,Missouri,Public Out-of-State,4-year,21880.0,10084.0,31964
+2021,Montana,Private,4-year,32064.0,9844.0,41908
+2021,Montana,Public In-State,2-year,3981.0,0.0,3981
+2021,Montana,Public In-State,4-year,,9938.0,9938
+2021,Montana,Public Out-of-State,2-year,9038.0,0.0,9038
+2021,Montana,Public Out-of-State,4-year,26368.0,9938.0,36306
+2021,Nebraska,Private,4-year,24985.0,9999.0,34984
+2021,Nebraska,Public In-State,2-year,3179.0,0.0,3179
+2021,Nebraska,Public In-State,4-year,,10591.0,10591
+2021,Nebraska,Public Out-of-State,2-year,3956.0,0.0,3956
+2021,Nebraska,Public Out-of-State,4-year,22277.0,10591.0,32868
+2021,Nevada,Private,4-year,26054.0,14187.0,40241
+2021,Nevada,Public In-State,4-year,,11631.0,11631
+2021,Nevada,Public Out-of-State,4-year,23010.0,11631.0,34641
+2021,New Hampshire,Private,4-year,14934.0,14169.0,29103
+2021,New Hampshire,Public In-State,2-year,7123.0,0.0,7123
+2021,New Hampshire,Public In-State,4-year,,12472.0,12472
+2021,New Hampshire,Public Out-of-State,2-year,15343.0,0.0,15343
+2021,New Hampshire,Public Out-of-State,4-year,31256.0,12472.0,43728
+2021,New Jersey,Private,4-year,38586.0,13855.0,52441
+2021,New Jersey,Public In-State,2-year,4919.0,0.0,4919
+2021,New Jersey,Public In-State,4-year,,14151.0,14151
+2021,New Jersey,Public Out-of-State,2-year,8136.0,0.0,8136
+2021,New Jersey,Public Out-of-State,4-year,28682.0,14151.0,42833
+2021,New Mexico,Private,4-year,24892.0,11878.0,36770
+2021,New Mexico,Public In-State,2-year,1766.0,0.0,1766
+2021,New Mexico,Public In-State,4-year,,9719.0,9719
+2021,New Mexico,Public Out-of-State,2-year,6236.0,0.0,6236
+2021,New Mexico,Public Out-of-State,4-year,21645.0,9719.0,31364
+2021,New York,Private,4-year,42631.0,15792.0,58423
+2021,New York,Public In-State,2-year,5576.0,0.0,5576
+2021,New York,Public In-State,4-year,,15815.0,15815
+2021,New York,Public Out-of-State,2-year,8874.0,0.0,8874
+2021,New York,Public Out-of-State,4-year,20113.0,15815.0,35928
+2021,North Carolina,Private,4-year,36772.0,13122.0,49894
+2021,North Carolina,Public In-State,2-year,2474.0,0.0,2474
+2021,North Carolina,Public In-State,4-year,,10519.0,10519
+2021,North Carolina,Public Out-of-State,2-year,8511.0,0.0,8511
+2021,North Carolina,Public Out-of-State,4-year,23136.0,10519.0,33655
+2021,North Dakota,Private,4-year,16408.0,8216.0,24624
+2021,North Dakota,Public In-State,2-year,5233.0,0.0,5233
+2021,North Dakota,Public In-State,4-year,,8992.0,8992
+2021,North Dakota,Public Out-of-State,2-year,6186.0,0.0,6186
+2021,North Dakota,Public Out-of-State,4-year,13501.0,8992.0,22493
+2021,Ohio,Private,4-year,35352.0,12184.0,47536
+2021,Ohio,Public In-State,2-year,4416.0,0.0,4416
+2021,Ohio,Public In-State,4-year,,12811.0,12811
+2021,Ohio,Public Out-of-State,2-year,7888.0,0.0,7888
+2021,Ohio,Public Out-of-State,4-year,26213.0,12811.0,39024
+2021,Oklahoma,Private,4-year,29905.0,9918.0,39823
+2021,Oklahoma,Public In-State,2-year,4194.0,0.0,4194
+2021,Oklahoma,Public In-State,4-year,,9219.0,9219
+2021,Oklahoma,Public Out-of-State,2-year,9320.0,0.0,9320
+2021,Oklahoma,Public Out-of-State,4-year,21737.0,9219.0,30956
+2021,Oregon,Private,4-year,45166.0,13545.0,58711
+2021,Oregon,Public In-State,2-year,5136.0,0.0,5136
+2021,Oregon,Public In-State,4-year,,12980.0,12980
+2021,Oregon,Public Out-of-State,2-year,8710.0,0.0,8710
+2021,Oregon,Public Out-of-State,4-year,33935.0,12980.0,46915
+2021,Pennsylvania,Private,4-year,43926.0,14431.0,58357
+2021,Pennsylvania,Public In-State,2-year,5441.0,0.0,5441
+2021,Pennsylvania,Public In-State,4-year,,11508.0,11508
+2021,Pennsylvania,Public Out-of-State,2-year,12808.0,0.0,12808
+2021,Pennsylvania,Public Out-of-State,4-year,25697.0,11508.0,37205
+2021,Rhode Island,Private,4-year,45927.0,15765.0,61692
+2021,Rhode Island,Public In-State,2-year,4806.0,0.0,4806
+2021,Rhode Island,Public In-State,4-year,,13249.0,13249
+2021,Rhode Island,Public Out-of-State,2-year,12884.0,0.0,12884
+2021,Rhode Island,Public Out-of-State,4-year,32111.0,13249.0,45360
+2021,South Carolina,Private,4-year,27317.0,10312.0,37629
+2021,South Carolina,Public In-State,2-year,4964.0,0.0,4964
+2021,South Carolina,Public In-State,4-year,,10637.0,10637
+2021,South Carolina,Public Out-of-State,2-year,10313.0,0.0,10313
+2021,South Carolina,Public Out-of-State,4-year,33055.0,10637.0,43692
+2021,South Dakota,Private,4-year,26740.0,8489.0,35229
+2021,South Dakota,Public In-State,2-year,7326.0,0.0,7326
+2021,South Dakota,Public In-State,4-year,,8166.0,8166
+2021,South Dakota,Public Out-of-State,2-year,7224.0,0.0,7224
+2021,South Dakota,Public Out-of-State,4-year,12924.0,8166.0,21090
+2021,Tennessee,Private,4-year,29862.0,11549.0,41411
+2021,Tennessee,Public In-State,2-year,4361.0,0.0,4361
+2021,Tennessee,Public In-State,4-year,,10368.0,10368
+2021,Tennessee,Public Out-of-State,2-year,17013.0,0.0,17013
+2021,Tennessee,Public Out-of-State,4-year,25046.0,10368.0,35414
+2021,Texas,Private,4-year,37450.0,12434.0,49884
+2021,Texas,Public In-State,2-year,2828.0,0.0,2828
+2021,Texas,Public In-State,4-year,,10309.0,10309
+2021,Texas,Public Out-of-State,2-year,7764.0,0.0,7764
+2021,Texas,Public Out-of-State,4-year,25471.0,10309.0,35780
+2021,Utah,Private,4-year,7753.0,8158.0,15911
+2021,Utah,Public In-State,2-year,3989.0,0.0,3989
+2021,Utah,Public In-State,4-year,,7889.0,7889
+2021,Utah,Public Out-of-State,2-year,12709.0,0.0,12709
+2021,Utah,Public Out-of-State,4-year,21595.0,7889.0,29484
+2021,Vermont,Private,4-year,48300.0,15071.0,63371
+2021,Vermont,Public In-State,2-year,6920.0,0.0,6920
+2021,Vermont,Public In-State,4-year,,13159.0,13159
+2021,Vermont,Public Out-of-State,2-year,13640.0,0.0,13640
+2021,Vermont,Public Out-of-State,4-year,41963.0,13159.0,55122
+2021,Virginia,Private,4-year,23220.0,12183.0,35403
+2021,Virginia,Public In-State,2-year,5228.0,0.0,5228
+2021,Virginia,Public In-State,4-year,,11830.0,11830
+2021,Virginia,Public Out-of-State,2-year,12059.0,0.0,12059
+2021,Virginia,Public Out-of-State,4-year,36193.0,11830.0,48023
+2021,Washington,Private,4-year,40830.0,13217.0,54047
+2021,Washington,Public In-State,2-year,4564.0,0.0,4564
+2021,Washington,Public In-State,4-year,,13541.0,13541
+2021,Washington,Public Out-of-State,2-year,7186.0,0.0,7186
+2021,Washington,Public Out-of-State,4-year,30891.0,13541.0,44432
+2021,West Virginia,Private,4-year,12413.0,9890.0,22303
+2021,West Virginia,Public In-State,2-year,4470.0,0.0,4470
+2021,West Virginia,Public In-State,4-year,,11060.0,11060
+2021,West Virginia,Public Out-of-State,2-year,9781.0,0.0,9781
+2021,West Virginia,Public Out-of-State,4-year,22475.0,11060.0,33535
+2021,Wisconsin,Private,4-year,35674.0,11389.0,47063
+2021,Wisconsin,Public In-State,2-year,4534.0,0.0,4534
+2021,Wisconsin,Public In-State,4-year,,9093.0,9093
+2021,Wisconsin,Public Out-of-State,2-year,6552.0,0.0,6552
+2021,Wisconsin,Public Out-of-State,4-year,26970.0,9093.0,36063
+2021,Wyoming,Public In-State,2-year,3987.0,0.0,3987
+2021,Wyoming,Public In-State,4-year,,9799.0,9799
+2021,Wyoming,Public Out-of-State,2-year,9820.0,0.0,9820
+2021,Wyoming,Public Out-of-State,4-year,14710.0,9799.0,24509

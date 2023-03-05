@@ -1,4 +1,4 @@
-# rising-cost-of-college-2013-to-2021
+# Rising Cost of College 2013-2021
 
 This project analyzes trends in the cost of undergraduate college education in the United States from 2013-2021. The data is publicly sourced from Kaggle.com.
 
